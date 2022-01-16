@@ -2,6 +2,9 @@
     text-align: center !important;
 }
 
+
+/* 图片点击titile前显示自定义小图标 */
+
 .jg-caption-visible::before {
     content: "🎉 ";
 }
@@ -15,7 +18,7 @@
 }
 
 
-/* 破解网页客服代码去除部分 */
+/* 网页客服代码去除部分 */
 
 .crisp-client .cc-kv6t .cc-1xry .cc-ge4v .cc-qqzz .cc-5b24 .cc-19cg .cc-z2iy {
     font-size: 60px !important;
@@ -59,4 +62,27 @@
     height: 100%;
     left: 0;
     top: 0;
+}
+
+
+/* 背景宇宙星光  */
+
+#universe {
+    display: block;
+    position: fixed;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: -1;
+}
+
+img,
+svg {
+    vertical-align: middle;
 }
