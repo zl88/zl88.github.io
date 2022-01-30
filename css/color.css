@@ -3,6 +3,10 @@
 [data-theme=light] {
     --card-bg: rgba(255, 255, 255, .9) !important;
     /* 全局背景调整 */
+    --card-box-shadow: 0 1px 20px 0 rgb(211 234 255);
+    /* 卡片投影 */
+    --card-hover-box-shadow: 0 3px 8px 6px rgb(17 118 219 / 27%);
+    /* 鼠标放入卡片投影变换颜色 */
 }
 
 
