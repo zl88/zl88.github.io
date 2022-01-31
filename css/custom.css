@@ -86,3 +86,40 @@ img,
 svg {
     vertical-align: middle;
 }
+
+
+/* 首页顶部导航的文字 */
+
+#nav {
+    font-family: fangsong;
+}
+
+
+/* 首页中间的文字 */
+
+#site-info {
+    font-family: fangsong;
+}
+
+
+/* 文章页里面最上方的标题 */
+
+#post-info .post-title {
+    font-family: fangsong;
+}
+
+
+/* 所有文章页面最上方的标题 */
+
+#page-site-info {
+    font-family: fangsong;
+}
+
+.open {
+    font-family: fangsong;
+}
+
+#aside-content .card-info .author-info__name {
+    font-family: fangsong;
+    font-weight: 700;
+}
