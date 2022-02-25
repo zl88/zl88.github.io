@@ -1,125 +1,298 @@
-.jg-caption {
-    text-align: center !important;
-}
-
-
-/* 图片点击titile前显示自定义小图标 */
-
-.jg-caption-visible::before {
-    content: "🎉 ";
-}
-
-.fancybox-caption__body::before {
-    content: "🎉 ";
-}
-
-.img-alt.is-center::before {
-    content: "🎉 ";
-}
-
-
-/* 网页客服代码去除部分 */
-
-.crisp-client .cc-kv6t .cc-1xry .cc-ge4v .cc-qqzz .cc-5b24 .cc-19cg .cc-z2iy {
-    font-size: 60px !important;
-    /* 字体足够大就会错位看不到 */
-}
-
-
-/* 说说powered部分 */
-
-#artitalk_main .power {
-    text-align: right;
-    margin-top: 10px;
-    font-size: 0px;
-    padding: 0px 0;
-}
-
-#artitalk_main .power a {
-    font-size: 0 !important;
-    position: relative;
-    cursor: pointer;
-    color: #1abc9c;
-    text-decoration: none;
-    display: inline-block;
-}
-
-
-/*哔哩哔哩视频适配*/
-
-.aspect-ratio {
-    position: relative;
-    width: 100%;
-    height: 0;
-    padding-bottom: 75%;
-    margin: 3% auto;
-    text-align: center;
-}
-
-.aspect-ratio iframe {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    left: 0;
-    top: 0;
-}
-
-
-/* 背景宇宙星光  */
-
-#universe {
-    display: block;
-    position: fixed;
-    margin: 0;
-    padding: 0;
-    border: 0;
-    outline: 0;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    pointer-events: none;
-    z-index: -1;
-}
-
-img,
-svg {
-    vertical-align: middle;
-}
-
-
-/* 首页顶部导航的文字 */
-
-#nav {
-    font-family: fangsong;
-}
-
-
-/* 首页中间的文字 */
-
-#site-info {
-    font-family: fangsong;
-}
-
-
-/* 文章页里面最上方的标题 */
-
-#post-info .post-title {
-    font-family: fangsong;
-}
-
-
-/* 所有文章页面最上方的标题 */
-
-#page-site-info {
-    font-family: fangsong;
-}
-
-.open {
-    font-family: fangsong;
-}
-
-#aside-content .card-info .author-info__name {
-    font-family: fangsong;
-    font-weight: 700;
-}
+    .jg-caption {
+        text-align: center !important;
+    }
+    /* 图片点击titile前显示自定义小图标 */
+    
+    .jg-caption-visible::before {
+        content: "💨 ";
+    }
+    
+    .fancybox-caption__body::before {
+        content: "🎉 ";
+    }
+    
+    .img-alt.is-center::before {
+        content: "⬆ ";
+    }
+    /* 网页客服代码去除部分 */
+    
+    .crisp-client .cc-kv6t .cc-1xry .cc-ge4v .cc-qqzz .cc-5b24 .cc-19cg .cc-z2iy {
+        font-size: 60px !important;
+        /* 字体足够大就会错位看不到 */
+    }
+    /* 说说powered部分 */
+    
+    #artitalk_main .power {
+        text-align: right;
+        margin-top: 10px;
+        font-size: 0px;
+        padding: 0px 0;
+    }
+    
+    #artitalk_main .power a {
+        font-size: 0 !important;
+        position: relative;
+        cursor: pointer;
+        color: #1abc9c;
+        text-decoration: none;
+        display: inline-block;
+    }
+    /*哔哩哔哩视频适配*/
+    
+    .aspect-ratio {
+        position: relative;
+        width: 100%;
+        height: 0;
+        padding-bottom: 75%;
+        margin: 3% auto;
+        text-align: center;
+    }
+    
+    .aspect-ratio iframe {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+    }
+    /* 背景宇宙星光  */
+    
+    #universe {
+        display: block;
+        position: fixed;
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+        z-index: -1;
+    }
+    
+    img,
+    svg {
+        vertical-align: middle;
+    }
+    /* 顶部导航栏logo的css */
+    
+    #blog_name::after {
+        content: '⛅';
+        /* 星河城野💕 */
+        font-size: 20px;
+    }
+    /* 教资的css🔰 */
+    
+    .notes-container[_ngcontent-c9],
+    .imgs-container[_ngcontent-c9],
+    .section-container[_ngcontent-c9] {
+        background: rgba(60, 124, 252, .06);
+        border-radius: 12px;
+        margin: 12px 24px;
+        overflow: hidden;
+    }
+    /* 鼠标经过以及点击访问的图片状态 */
+    
+    .section-container:hover .img-container,
+    .section-container:visited .img-container,
+    .section-container:active .img-container,
+    .section-container:focus .img-container {
+        border: 2px solid rgba(60, 124, 252, .5);
+    }
+    
+    .notes-container[_ngcontent-c9],
+    .imgs-container[_ngcontent-c9],
+    .img-container[_ngcontent-c9] {
+        border-radius: 12px;
+        overflow: hidden;
+        border: 2px solid transparent;
+        cursor: pointer;
+        padding: 6px;
+        position: relative;
+    }
+    
+    .notes-container[_ngcontent-c9],
+    .imgs-container[_ngcontent-c9],
+    .img-container[_ngcontent-c9],
+    .note-img[_ngcontent-c9] {
+        width: 100%;
+        min-height: 200px;
+        border-radius: 10px;
+        overflow: hidden;
+    }
+    
+    .notes-container[_ngcontent-c9],
+    .imgs-container[_ngcontent-c9],
+    .mark[_ngcontent-c9] {
+        margin-top: -16px;
+        padding: 28px 24px 12px;
+        font-size: 14px;
+        color: #333;
+        line-height: 18px;
+        border-radius: 12px;
+        border: none;
+        resize: none;
+        outline: none;
+        background: transparent;
+        word-wrap: break-word;
+    }
+    /* 右上角标志 */
+    
+    .imgs-container[_ngcontent-c9] .img-container[_ngcontent-c9] .type-icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+        display: inline-block;
+        height: 30px;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    
+    .imgs-container[_ngcontent-c9] .img-container[_ngcontent-c9] .type-icon-custom[_ngcontent-c9] {
+        width: 56px;
+        background-image: url(https://github.rc1844.workers.dev/xiaolongmr/test/raw/main/img/zdy.png);
+        /* 自定义 */
+    }
+    
+    .imgs-container[_ngcontent-c9] .img-container[_ngcontent-c9] .type-icon-important[_ngcontent-c9] {
+        width: 45px;
+        background-image: url(https://www.iqiyi.cf/img/zd.png);
+        /* 重点 */
+    }
+    
+    .imgs-container[_ngcontent-c9] .img-container[_ngcontent-c9] .type-icon-ques[_ngcontent-c9] {
+        width: 45px;
+        background-image: url(https://www.iqiyi.cf/img/yw.png);
+        /* 疑问 */
+    }
+    
+    .note-img {
+        margin: 0px !important;
+        /* 强制笔记里面的图片margin距离 */
+    }
+    /* =========  2022年2月25日 ========= */
+    /* https://pic.rmb.bdstatic.com/bjh/5e5c7d9e68b1c96341d6a752d92c7d4b.jpeg */
+    
+    #aside-content .card-widget {
+        position: relative;
+        overflow: hidden;
+        margin-top: 1rem;
+        padding: 1rem 1.2rem;
+        border-radius: 8px;
+        background: var(--card-bg);
+        -webkit-box-shadow: var(--card-box-shadow);
+        box-shadow: var(--card-box-shadow);
+        -webkit-transition: box-shadow 0.3s;
+        -moz-transition: box-shadow 0.3s;
+        -o-transition: box-shadow 0.3s;
+        -ms-transition: box-shadow 0.3s;
+        transition: box-shadow 0.3s;
+        background: hsl(0deg 0% 100% / 73%) border-box;
+        -webkit-backdrop-filter: blur(.3rem);
+        backdrop-filter: blur(.3rem);
+    }
+    /* https://pic.rmb.bdstatic.com/bjh/366c473dc1525c775e3cca203408913f.jpeg */
+    
+    #recent-posts>.recent-post-item {
+        display: -webkit-box;
+        display: -moz-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: box;
+        display: flex;
+        -webkit-box-orient: horizontal;
+        -moz-box-orient: horizontal;
+        -o-box-orient: horizontal;
+        -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+        flex-direction: row;
+        -webkit-box-align: center;
+        -moz-box-align: center;
+        -o-box-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        align-items: center;
+        height: 20em;
+        border-radius: 12px 8px 8px 12px;
+        background: var(--card-bg);
+        -webkit-box-shadow: var(--card-box-shadow);
+        box-shadow: var(--card-box-shadow);
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        -o-transition: all 0.3s;
+        -ms-transition: all 0.3s;
+        transition: all 0.3s;
+        background: hsl(0deg 0% 100% / 73%) border-box;
+        -webkit-backdrop-filter: blur(.3rem);
+        backdrop-filter: blur(.3rem);
+    }
+    /* https://pic.rmb.bdstatic.com/bjh/3a59ebf9b17b9a9863b0c92865685c54.jpeg */
+    
+    #sidebar #sidebar-menus {
+        position: fixed;
+        top: 0;
+        right: -300px;
+        z-index: 103;
+        overflow-x: hidden;
+        overflow-y: auto;
+        width: 300px;
+        height: 100%;
+        background: var(--sidebar-bg);
+        -webkit-transition: all 0.5s;
+        -moz-transition: all 0.5s;
+        -o-transition: all 0.5s;
+        -ms-transition: all 0.5s;
+        transition: all 0.5s;
+        background: rgba(255, 255, 255, 0.705) border-box;
+        -webkit-backdrop-filter: blur(.3rem);
+        backdrop-filter: blur(.3rem);
+    }
+    /* https://pic.rmb.bdstatic.com/bjh/201892a317ac0ae29ae822a00d1f6ece.jpeg */
+    
+    #page-header.nav-visible #nav {
+        -webkit-transition: all 0.5s;
+        -moz-transition: all 0.5s;
+        -o-transition: all 0.5s;
+        -ms-transition: all 0.5s;
+        transition: all 0.5s;
+        -webkit-transform: translate3d(0, 100%, 0);
+        -moz-transform: translate3d(0, 100%, 0);
+        -o-transform: translate3d(0, 100%, 0);
+        -ms-transform: translate3d(0, 100%, 0);
+        transform: translate3d(0, 100%, 0);
+        background: hsl(0deg 0% 100% / 29%) border-box;
+        -webkit-backdrop-filter: blur(.3rem);
+        backdrop-filter: blur(.3rem);
+    }
+    /* https://pic.rmb.bdstatic.com/bjh/d5ddbf4a77158f32727ad642a93aa9a2.jpeg */
+    
+    #rightside {
+        position: fixed;
+        right: -34px;
+        bottom: 135px;
+        z-index: 100;
+        opacity: 0;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+        filter: alpha(opacity=0);
+        -webkit-transition: all 0.5s;
+        -moz-transition: all 0.5s;
+        -o-transition: all 0.5s;
+        -ms-transition: all 0.5s;
+        transition: all 0.5s;
+    }
+    /* https://pic.rmb.bdstatic.com/bjh/a84b5bf1c4c579394bca3dc5d94a3f89.jpeg */
+    
+    #footer {
+        position: relative;
+        background: #49b1f5;
+        background-attachment: local;
+        background-position: bottom;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        background: hsl(0deg 0% 58% / 33%) border-box;
+        -webkit-backdrop-filter: blur(.5rem);
+        backdrop-filter: blur(.5rem);
+    }
