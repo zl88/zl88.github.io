@@ -176,7 +176,7 @@
     /* https://pic.rmb.bdstatic.com/bjh/5e5c7d9e68b1c96341d6a752d92c7d4b.jpeg */
     
     #aside-content .card-widget {
-        position: relative;
+        /* position: relative;
         overflow: hidden;
         margin-top: 1rem;
         padding: 1rem 1.2rem;
@@ -188,7 +188,7 @@
         -moz-transition: box-shadow 0.3s;
         -o-transition: box-shadow 0.3s;
         -ms-transition: box-shadow 0.3s;
-        transition: box-shadow 0.3s;
+        transition: box-shadow 0.3s; */
         background: hsl(0deg 0% 100% / 73%) border-box;
         -webkit-backdrop-filter: blur(.3rem);
         backdrop-filter: blur(.3rem);
@@ -196,7 +196,7 @@
     /* https://pic.rmb.bdstatic.com/bjh/366c473dc1525c775e3cca203408913f.jpeg */
     
     #recent-posts>.recent-post-item {
-        display: -webkit-box;
+        /* display: -webkit-box;
         display: -moz-box;
         display: -webkit-flex;
         display: -ms-flexbox;
@@ -223,7 +223,7 @@
         -moz-transition: all 0.3s;
         -o-transition: all 0.3s;
         -ms-transition: all 0.3s;
-        transition: all 0.3s;
+        transition: all 0.3s; */
         background: hsl(0deg 0% 100% / 73%) border-box;
         -webkit-backdrop-filter: blur(.3rem);
         backdrop-filter: blur(.3rem);
@@ -231,7 +231,7 @@
     /* https://pic.rmb.bdstatic.com/bjh/3a59ebf9b17b9a9863b0c92865685c54.jpeg */
     
     #sidebar #sidebar-menus {
-        position: fixed;
+        /* position: fixed;
         top: 0;
         right: -300px;
         z-index: 103;
@@ -244,7 +244,7 @@
         -moz-transition: all 0.5s;
         -o-transition: all 0.5s;
         -ms-transition: all 0.5s;
-        transition: all 0.5s;
+        transition: all 0.5s; */
         background: rgba(255, 255, 255, 0.705) border-box;
         -webkit-backdrop-filter: blur(.3rem);
         backdrop-filter: blur(.3rem);
@@ -252,7 +252,7 @@
     /* https://pic.rmb.bdstatic.com/bjh/201892a317ac0ae29ae822a00d1f6ece.jpeg */
     
     #page-header.nav-visible #nav {
-        -webkit-transition: all 0.5s;
+        /* -webkit-transition: all 0.5s;
         -moz-transition: all 0.5s;
         -o-transition: all 0.5s;
         -ms-transition: all 0.5s;
@@ -261,7 +261,7 @@
         -moz-transform: translate3d(0, 100%, 0);
         -o-transform: translate3d(0, 100%, 0);
         -ms-transform: translate3d(0, 100%, 0);
-        transform: translate3d(0, 100%, 0);
+        transform: translate3d(0, 100%, 0); */
         background: hsl(0deg 0% 100% / 29%) border-box;
         -webkit-backdrop-filter: blur(.3rem);
         backdrop-filter: blur(.3rem);
@@ -269,9 +269,9 @@
     /* https://pic.rmb.bdstatic.com/bjh/d5ddbf4a77158f32727ad642a93aa9a2.jpeg */
     
     #rightside {
-        position: fixed;
+        /* position: fixed; */
         right: -34px;
-        bottom: 135px;
+        /* bottom: 135px;
         z-index: 100;
         opacity: 0;
         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -280,19 +280,41 @@
         -moz-transition: all 0.5s;
         -o-transition: all 0.5s;
         -ms-transition: all 0.5s;
-        transition: all 0.5s;
+        transition: all 0.5s; */
     }
     /* https://pic.rmb.bdstatic.com/bjh/a84b5bf1c4c579394bca3dc5d94a3f89.jpeg */
     
     #footer {
-        position: relative;
+        /* position: relative;
         background: #49b1f5;
         background-attachment: local;
         background-position: bottom;
         -webkit-background-size: cover;
         -moz-background-size: cover;
-        background-size: cover;
+        background-size: cover; */
         background: hsl(0deg 0% 58% / 33%) border-box;
         -webkit-backdrop-filter: blur(.5rem);
         backdrop-filter: blur(.5rem);
+    }
+    /* https://pic.rmb.bdstatic.com/bjh/d7670be8d35633d61a469c252fe5f919.jpeg */
+    
+    .layout>div:first-child:not(.recent-posts) {
+        /* -webkit-align-self: flex-start;
+        align-self: flex-start;
+        -ms-flex-item-align: start;
+        padding: 50px 40px;
+        border-radius: 8px;
+        background: var(--card-bg);
+        -webkit-box-shadow: var(--card-box-shadow);
+        box-shadow: var(--card-box-shadow); */
+        background: hsl(0deg 0% 100% / 73%) border-box;
+        -webkit-backdrop-filter: blur(.3rem);
+        backdrop-filter: blur(.3rem);
+    }
+    /* https://pic.rmb.bdstatic.com/bjh/4c49766e42984d9bc3ff40f9b11f299c.jpeg */
+    
+    #article-container img {
+        /* display: block; */
+        border-radius: 15px;
+        /* margin: 0 auto 0.8rem; */
     }
