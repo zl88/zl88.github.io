@@ -318,3 +318,11 @@
         border-radius: 15px;
         /* margin: 0 auto 0.8rem; */
     }
+    
+    h3::before {
+        content: '|';
+        width: 2px;
+        color: #1abc9c;
+        margin-right: 7px;
+        font-weight: 700;
+    }
