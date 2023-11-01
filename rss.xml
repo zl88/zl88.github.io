@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>星河城野</title>
-  <icon>https://xhcy.4everland.app/img/favicon.png</icon>
+  <icon>https://zlblog.cf/img/favicon.png</icon>
   <subtitle>低调存在，无人问津，专注无用，深度浅薄。</subtitle>
-  <link href="https://xhcy.4everland.app/rss.xml" rel="self"/>
+  <link href="https://zlblog.cf/rss.xml" rel="self"/>
   
-  <link href="https://xhcy.4everland.app/"/>
-  <updated>2023-10-31T13:42:29.544Z</updated>
-  <id>https://xhcy.4everland.app/</id>
+  <link href="https://zlblog.cf/"/>
+  <updated>2023-11-01T09:39:22.917Z</updated>
+  <id>https://zlblog.cf/</id>
   
   <author>
     <name>小张</name>
@@ -18,29 +18,29 @@
   
   <entry>
     <title>50天每日背单词计划</title>
-    <link href="https://xhcy.4everland.app/posts/22709.html"/>
-    <id>https://xhcy.4everland.app/posts/22709.html</id>
+    <link href="https://zlblog.cf/posts/bbdc.html"/>
+    <id>https://zlblog.cf/posts/bbdc.html</id>
     <published>2023-10-29T15:36:09.000Z</published>
-    <updated>2023-10-31T13:42:29.544Z</updated>
+    <updated>2023-11-01T09:39:22.917Z</updated>
     
     
     <summary type="html">在这里记录自己每天单词打卡，努力每天背200个单词，一直坚持到考试前一天，加油~</summary>
     
     
     
-    <category term="学习" scheme="https://xhcy.4everland.app/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://zlblog.cf/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="学习" scheme="https://xhcy.4everland.app/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://zlblog.cf/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="打卡" scheme="https://xhcy.4everland.app/tags/%E6%89%93%E5%8D%A1/"/>
+    <category term="打卡" scheme="https://zlblog.cf/tags/%E6%89%93%E5%8D%A1/"/>
     
   </entry>
   
   <entry>
     <title>世界现代设计史考点挖空题</title>
-    <link href="https://xhcy.4everland.app/posts/666.html"/>
-    <id>https://xhcy.4everland.app/posts/666.html</id>
+    <link href="https://zlblog.cf/posts/666.html"/>
+    <id>https://zlblog.cf/posts/666.html</id>
     <published>2023-10-14T19:40:54.000Z</published>
     <updated>2023-10-27T13:15:28.870Z</updated>
     
@@ -49,19 +49,19 @@
     
     
     
-    <category term="学习" scheme="https://xhcy.4everland.app/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://zlblog.cf/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="学习" scheme="https://xhcy.4everland.app/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://zlblog.cf/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="设计史" scheme="https://xhcy.4everland.app/tags/%E8%AE%BE%E8%AE%A1%E5%8F%B2/"/>
+    <category term="设计史" scheme="https://zlblog.cf/tags/%E8%AE%BE%E8%AE%A1%E5%8F%B2/"/>
     
   </entry>
   
   <entry>
     <title>关于我在老家跳 “跳绳”</title>
-    <link href="https://xhcy.4everland.app/posts/31695.html"/>
-    <id>https://xhcy.4everland.app/posts/31695.html</id>
+    <link href="https://zlblog.cf/posts/31695.html"/>
+    <id>https://zlblog.cf/posts/31695.html</id>
     <published>2023-10-11T07:28:51.000Z</published>
     <updated>2023-10-26T05:26:35.850Z</updated>
     
@@ -70,19 +70,19 @@
     
     
     
-    <category term="日常" scheme="https://xhcy.4everland.app/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="https://zlblog.cf/categories/%E6%97%A5%E5%B8%B8/"/>
     
     
-    <category term="日常" scheme="https://xhcy.4everland.app/tags/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="https://zlblog.cf/tags/%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="随记" scheme="https://xhcy.4everland.app/tags/%E9%9A%8F%E8%AE%B0/"/>
+    <category term="随记" scheme="https://zlblog.cf/tags/%E9%9A%8F%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>家用文字转语音</title>
-    <link href="https://xhcy.4everland.app/posts/16765.html"/>
-    <id>https://xhcy.4everland.app/posts/16765.html</id>
+    <link href="https://zlblog.cf/posts/16765.html"/>
+    <id>https://zlblog.cf/posts/16765.html</id>
     <published>2023-09-17T04:05:03.000Z</published>
     <updated>2023-10-26T05:26:49.111Z</updated>
     
@@ -100,17 +100,17 @@
     
     
     
-    <category term="日常" scheme="https://xhcy.4everland.app/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="https://zlblog.cf/categories/%E6%97%A5%E5%B8%B8/"/>
     
     
-    <category term="转换" scheme="https://xhcy.4everland.app/tags/%E8%BD%AC%E6%8D%A2/"/>
+    <category term="转换" scheme="https://zlblog.cf/tags/%E8%BD%AC%E6%8D%A2/"/>
     
   </entry>
   
   <entry>
     <title>新版 RSMB 动态模糊插件下载安装</title>
-    <link href="https://xhcy.4everland.app/posts/14709.html"/>
-    <id>https://xhcy.4everland.app/posts/14709.html</id>
+    <link href="https://zlblog.cf/posts/14709.html"/>
+    <id>https://zlblog.cf/posts/14709.html</id>
     <published>2023-09-16T14:00:10.000Z</published>
     <updated>2023-10-23T12:02:00.986Z</updated>
     
@@ -119,19 +119,19 @@
     
     
     
-    <category term="插件" scheme="https://xhcy.4everland.app/categories/%E6%8F%92%E4%BB%B6/"/>
+    <category term="插件" scheme="https://zlblog.cf/categories/%E6%8F%92%E4%BB%B6/"/>
     
     
-    <category term="下载" scheme="https://xhcy.4everland.app/tags/%E4%B8%8B%E8%BD%BD/"/>
+    <category term="下载" scheme="https://zlblog.cf/tags/%E4%B8%8B%E8%BD%BD/"/>
     
-    <category term="AE" scheme="https://xhcy.4everland.app/tags/AE/"/>
+    <category term="AE" scheme="https://zlblog.cf/tags/AE/"/>
     
   </entry>
   
   <entry>
     <title>twikoo评论回复邮件模板</title>
-    <link href="https://xhcy.4everland.app/posts/14821.html"/>
-    <id>https://xhcy.4everland.app/posts/14821.html</id>
+    <link href="https://zlblog.cf/posts/14821.html"/>
+    <id>https://zlblog.cf/posts/14821.html</id>
     <published>2023-07-03T12:04:38.000Z</published>
     <updated>2023-10-26T05:50:34.590Z</updated>
     
@@ -140,19 +140,19 @@
     
     
     
-    <category term="前端" scheme="https://xhcy.4everland.app/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://zlblog.cf/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="hexo" scheme="https://xhcy.4everland.app/tags/hexo/"/>
+    <category term="hexo" scheme="https://zlblog.cf/tags/hexo/"/>
     
-    <category term="前端" scheme="https://xhcy.4everland.app/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://zlblog.cf/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
   <entry>
     <title>博客侧边栏添加不背单词仪表盘</title>
-    <link href="https://xhcy.4everland.app/posts/9021.html"/>
-    <id>https://xhcy.4everland.app/posts/9021.html</id>
+    <link href="https://zlblog.cf/posts/9021.html"/>
+    <id>https://zlblog.cf/posts/9021.html</id>
     <published>2023-07-02T04:33:03.000Z</published>
     <updated>2023-10-26T05:25:46.125Z</updated>
     
@@ -161,19 +161,19 @@
     
     
     
-    <category term="hexo" scheme="https://xhcy.4everland.app/categories/hexo/"/>
+    <category term="hexo" scheme="https://zlblog.cf/categories/hexo/"/>
     
     
-    <category term="hexo" scheme="https://xhcy.4everland.app/tags/hexo/"/>
+    <category term="hexo" scheme="https://zlblog.cf/tags/hexo/"/>
     
-    <category term="butterfly" scheme="https://xhcy.4everland.app/tags/butterfly/"/>
+    <category term="butterfly" scheme="https://zlblog.cf/tags/butterfly/"/>
     
   </entry>
   
   <entry>
     <title>Stable Diffusion 超级符号延展设计</title>
-    <link href="https://xhcy.4everland.app/posts/406391.html"/>
-    <id>https://xhcy.4everland.app/posts/406391.html</id>
+    <link href="https://zlblog.cf/posts/406391.html"/>
+    <id>https://zlblog.cf/posts/406391.html</id>
     <published>2023-06-28T08:22:34.000Z</published>
     <updated>2023-10-26T05:48:40.297Z</updated>
     
@@ -182,19 +182,19 @@
     
     
     
-    <category term="SD" scheme="https://xhcy.4everland.app/categories/SD/"/>
+    <category term="SD" scheme="https://zlblog.cf/categories/SD/"/>
     
     
-    <category term="AI" scheme="https://xhcy.4everland.app/tags/AI/"/>
+    <category term="AI" scheme="https://zlblog.cf/tags/AI/"/>
     
-    <category term="SD" scheme="https://xhcy.4everland.app/tags/SD/"/>
+    <category term="SD" scheme="https://zlblog.cf/tags/SD/"/>
     
   </entry>
   
   <entry>
     <title>hexo 图片圆角处理</title>
-    <link href="https://xhcy.4everland.app/posts/46337.html"/>
-    <id>https://xhcy.4everland.app/posts/46337.html</id>
+    <link href="https://zlblog.cf/posts/46337.html"/>
+    <id>https://zlblog.cf/posts/46337.html</id>
     <published>2023-06-28T08:18:05.000Z</published>
     <updated>2023-10-26T05:23:36.179Z</updated>
     
@@ -212,19 +212,19 @@
     
     
     
-    <category term="分享" scheme="https://xhcy.4everland.app/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://zlblog.cf/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="hexo" scheme="https://xhcy.4everland.app/tags/hexo/"/>
+    <category term="hexo" scheme="https://zlblog.cf/tags/hexo/"/>
     
-    <category term="butterfly" scheme="https://xhcy.4everland.app/tags/butterfly/"/>
+    <category term="butterfly" scheme="https://zlblog.cf/tags/butterfly/"/>
     
   </entry>
   
   <entry>
     <title>在线度盘解析</title>
-    <link href="https://xhcy.4everland.app/posts/3185.html"/>
-    <id>https://xhcy.4everland.app/posts/3185.html</id>
+    <link href="https://zlblog.cf/posts/3185.html"/>
+    <id>https://zlblog.cf/posts/3185.html</id>
     <published>2023-06-23T16:00:00.000Z</published>
     <updated>2023-10-26T05:30:54.351Z</updated>
     
@@ -233,17 +233,17 @@
     
     
     
-    <category term="分享" scheme="https://xhcy.4everland.app/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://zlblog.cf/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="解析" scheme="https://xhcy.4everland.app/tags/%E8%A7%A3%E6%9E%90/"/>
+    <category term="解析" scheme="https://zlblog.cf/tags/%E8%A7%A3%E6%9E%90/"/>
     
   </entry>
   
   <entry>
     <title>室友小白分享的壁纸</title>
-    <link href="https://xhcy.4everland.app/posts/34228.html"/>
-    <id>https://xhcy.4everland.app/posts/34228.html</id>
+    <link href="https://zlblog.cf/posts/34228.html"/>
+    <id>https://zlblog.cf/posts/34228.html</id>
     <published>2023-06-23T16:00:00.000Z</published>
     <updated>2023-10-26T05:28:25.565Z</updated>
     
@@ -258,17 +258,17 @@
     
     
     
-    <category term="日常" scheme="https://xhcy.4everland.app/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="https://zlblog.cf/categories/%E6%97%A5%E5%B8%B8/"/>
     
     
-    <category term="壁纸" scheme="https://xhcy.4everland.app/tags/%E5%A3%81%E7%BA%B8/"/>
+    <category term="壁纸" scheme="https://zlblog.cf/tags/%E5%A3%81%E7%BA%B8/"/>
     
   </entry>
   
   <entry>
     <title>PS beta版国内使用【加密文章】</title>
-    <link href="https://xhcy.4everland.app/posts/PS-beat.html"/>
-    <id>https://xhcy.4everland.app/posts/PS-beat.html</id>
+    <link href="https://zlblog.cf/posts/PS-beat.html"/>
+    <id>https://zlblog.cf/posts/PS-beat.html</id>
     <published>2023-06-16T16:00:00.000Z</published>
     <updated>2023-10-29T15:23:59.865Z</updated>
     
@@ -277,19 +277,19 @@
     
     
     
-    <category term="分享" scheme="https://xhcy.4everland.app/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://zlblog.cf/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="AI" scheme="https://xhcy.4everland.app/tags/AI/"/>
+    <category term="AI" scheme="https://zlblog.cf/tags/AI/"/>
     
-    <category term="ps" scheme="https://xhcy.4everland.app/tags/ps/"/>
+    <category term="ps" scheme="https://zlblog.cf/tags/ps/"/>
     
   </entry>
   
   <entry>
     <title>小陈GPT-key分享</title>
-    <link href="https://xhcy.4everland.app/posts/31814.html"/>
-    <id>https://xhcy.4everland.app/posts/31814.html</id>
+    <link href="https://zlblog.cf/posts/31814.html"/>
+    <id>https://zlblog.cf/posts/31814.html</id>
     <published>2023-06-15T16:00:00.000Z</published>
     <updated>2023-10-26T06:53:48.515Z</updated>
     
@@ -298,19 +298,19 @@
     
     
     
-    <category term="小陈" scheme="https://xhcy.4everland.app/categories/%E5%B0%8F%E9%99%88/"/>
+    <category term="小陈" scheme="https://zlblog.cf/categories/%E5%B0%8F%E9%99%88/"/>
     
     
-    <category term="小陈" scheme="https://xhcy.4everland.app/tags/%E5%B0%8F%E9%99%88/"/>
+    <category term="小陈" scheme="https://zlblog.cf/tags/%E5%B0%8F%E9%99%88/"/>
     
-    <category term="key" scheme="https://xhcy.4everland.app/tags/key/"/>
+    <category term="key" scheme="https://zlblog.cf/tags/key/"/>
     
   </entry>
   
   <entry>
     <title>小陈GPT使用</title>
-    <link href="https://xhcy.4everland.app/posts/581162.html"/>
-    <id>https://xhcy.4everland.app/posts/581162.html</id>
+    <link href="https://zlblog.cf/posts/581162.html"/>
+    <id>https://zlblog.cf/posts/581162.html</id>
     <published>2023-06-15T16:00:00.000Z</published>
     <updated>2023-10-26T06:52:59.286Z</updated>
     
@@ -327,17 +327,17 @@
     
     
     
-    <category term="小陈" scheme="https://xhcy.4everland.app/categories/%E5%B0%8F%E9%99%88/"/>
+    <category term="小陈" scheme="https://zlblog.cf/categories/%E5%B0%8F%E9%99%88/"/>
     
     
-    <category term="小陈" scheme="https://xhcy.4everland.app/tags/%E5%B0%8F%E9%99%88/"/>
+    <category term="小陈" scheme="https://zlblog.cf/tags/%E5%B0%8F%E9%99%88/"/>
     
   </entry>
   
   <entry>
     <title>长大后才明白的道理</title>
-    <link href="https://xhcy.4everland.app/posts/33044.html"/>
-    <id>https://xhcy.4everland.app/posts/33044.html</id>
+    <link href="https://zlblog.cf/posts/33044.html"/>
+    <id>https://zlblog.cf/posts/33044.html</id>
     <published>2023-06-04T13:38:42.000Z</published>
     <updated>2023-10-30T21:08:01.503Z</updated>
     
@@ -346,19 +346,19 @@
     
     
     
-    <category term="随记" scheme="https://xhcy.4everland.app/categories/%E9%9A%8F%E8%AE%B0/"/>
+    <category term="随记" scheme="https://zlblog.cf/categories/%E9%9A%8F%E8%AE%B0/"/>
     
     
-    <category term="日常" scheme="https://xhcy.4everland.app/tags/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="https://zlblog.cf/tags/%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="随记" scheme="https://xhcy.4everland.app/tags/%E9%9A%8F%E8%AE%B0/"/>
+    <category term="随记" scheme="https://zlblog.cf/tags/%E9%9A%8F%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>老友有声—中老年有声书功能UX体验设计</title>
-    <link href="https://xhcy.4everland.app/posts/1235.html"/>
-    <id>https://xhcy.4everland.app/posts/1235.html</id>
+    <link href="https://zlblog.cf/posts/1235.html"/>
+    <id>https://zlblog.cf/posts/1235.html</id>
     <published>2023-05-19T16:00:00.000Z</published>
     <updated>2023-10-28T05:42:50.496Z</updated>
     
@@ -368,14 +368,14 @@
     
     
     
-    <category term="UX" scheme="https://xhcy.4everland.app/tags/UX/"/>
+    <category term="UX" scheme="https://zlblog.cf/tags/UX/"/>
     
   </entry>
   
   <entry>
     <title>bat批量处理，解放双手</title>
-    <link href="https://xhcy.4everland.app/posts/200425.html"/>
-    <id>https://xhcy.4everland.app/posts/200425.html</id>
+    <link href="https://zlblog.cf/posts/200425.html"/>
+    <id>https://zlblog.cf/posts/200425.html</id>
     <published>2023-05-07T16:00:00.000Z</published>
     <updated>2023-10-26T05:49:03.770Z</updated>
     
@@ -384,17 +384,17 @@
     
     
     
-    <category term="分享" scheme="https://xhcy.4everland.app/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://zlblog.cf/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="bat" scheme="https://xhcy.4everland.app/tags/bat/"/>
+    <category term="bat" scheme="https://zlblog.cf/tags/bat/"/>
     
   </entry>
   
   <entry>
     <title>精选实用电脑及手机等的软件分享</title>
-    <link href="https://xhcy.4everland.app/posts/software.html"/>
-    <id>https://xhcy.4everland.app/posts/software.html</id>
+    <link href="https://zlblog.cf/posts/software.html"/>
+    <id>https://zlblog.cf/posts/software.html</id>
     <published>2023-04-15T16:00:00.000Z</published>
     <updated>2023-10-31T05:03:10.071Z</updated>
     
@@ -403,21 +403,21 @@
     
     
     
-    <category term="分享" scheme="https://xhcy.4everland.app/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://zlblog.cf/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="电脑" scheme="https://xhcy.4everland.app/tags/%E7%94%B5%E8%84%91/"/>
+    <category term="电脑" scheme="https://zlblog.cf/tags/%E7%94%B5%E8%84%91/"/>
     
-    <category term="软件" scheme="https://xhcy.4everland.app/tags/%E8%BD%AF%E4%BB%B6/"/>
+    <category term="软件" scheme="https://zlblog.cf/tags/%E8%BD%AF%E4%BB%B6/"/>
     
-    <category term="手机" scheme="https://xhcy.4everland.app/tags/%E6%89%8B%E6%9C%BA/"/>
+    <category term="手机" scheme="https://zlblog.cf/tags/%E6%89%8B%E6%9C%BA/"/>
     
   </entry>
   
   <entry>
     <title>在线3D交互魔方</title>
-    <link href="https://xhcy.4everland.app/posts/62681.html"/>
-    <id>https://xhcy.4everland.app/posts/62681.html</id>
+    <link href="https://zlblog.cf/posts/62681.html"/>
+    <id>https://zlblog.cf/posts/62681.html</id>
     <published>2023-04-12T16:00:00.000Z</published>
     <updated>2023-10-26T06:58:24.843Z</updated>
     
@@ -426,17 +426,17 @@
     
     
     
-    <category term="小陈" scheme="https://xhcy.4everland.app/categories/%E5%B0%8F%E9%99%88/"/>
+    <category term="小陈" scheme="https://zlblog.cf/categories/%E5%B0%8F%E9%99%88/"/>
     
     
-    <category term="小陈" scheme="https://xhcy.4everland.app/tags/%E5%B0%8F%E9%99%88/"/>
+    <category term="小陈" scheme="https://zlblog.cf/tags/%E5%B0%8F%E9%99%88/"/>
     
   </entry>
   
   <entry>
     <title>优秀的前端</title>
-    <link href="https://xhcy.4everland.app/posts/38690.html"/>
-    <id>https://xhcy.4everland.app/posts/38690.html</id>
+    <link href="https://zlblog.cf/posts/38690.html"/>
+    <id>https://zlblog.cf/posts/38690.html</id>
     <published>2023-03-11T16:00:00.000Z</published>
     <updated>2023-10-28T15:59:34.427Z</updated>
     
@@ -445,10 +445,10 @@
     
     
     
-    <category term="前端" scheme="https://xhcy.4everland.app/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://zlblog.cf/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="前端" scheme="https://xhcy.4everland.app/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://zlblog.cf/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
