@@ -685,9 +685,9 @@
       
       <categories>
           
-          <category> 分享 </category>
-          
           <category> 学习 </category>
+          
+          <category> 分享 </category>
           
           <category> 免费字体 </category>
           
@@ -1108,9 +1108,9 @@
       
         <tags>
             
-            <tag> hexo </tag>
-            
             <tag> 备忘录 </tag>
+            
+            <tag> hexo </tag>
             
         </tags>
       
