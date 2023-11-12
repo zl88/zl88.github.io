@@ -141,9 +141,9 @@
     <category term="插件" scheme="https://zlblog.cf/categories/%E6%8F%92%E4%BB%B6/"/>
     
     
-    <category term="AE" scheme="https://zlblog.cf/tags/AE/"/>
-    
     <category term="下载" scheme="https://zlblog.cf/tags/%E4%B8%8B%E8%BD%BD/"/>
+    
+    <category term="AE" scheme="https://zlblog.cf/tags/AE/"/>
     
   </entry>
   
@@ -285,11 +285,11 @@
   </entry>
   
   <entry>
-    <title>PS beta版国内使用【加密文章】</title>
+    <title>PS beta版国内使用扩图功能</title>
     <link href="https://zlblog.cf/posts/PS-beat.html"/>
     <id>https://zlblog.cf/posts/PS-beat.html</id>
     <published>2023-06-16T16:00:00.000Z</published>
-    <updated>2023-10-29T15:23:59.865Z</updated>
+    <updated>2023-11-12T04:44:59.966Z</updated>
     
     
     <summary type="html">由于PS打击盗版，本教程已失效。花钱买正版PS+漂亮国魔法吧,  或者尽早学Stable Diffusion来作图，但白嫖魔法有效。</summary>
@@ -302,27 +302,6 @@
     <category term="AI" scheme="https://zlblog.cf/tags/AI/"/>
     
     <category term="ps" scheme="https://zlblog.cf/tags/ps/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>小陈GPT-key分享</title>
-    <link href="https://zlblog.cf/posts/31814.html"/>
-    <id>https://zlblog.cf/posts/31814.html</id>
-    <published>2023-06-15T16:00:00.000Z</published>
-    <updated>2023-10-26T06:53:48.515Z</updated>
-    
-    
-    <summary type="html">key已失效，请使用夏DJ导航站置顶链接中的公益GPT，或者本站置顶第三个文章 “夏DJ导航站未收录的网站” 中的公益Gpt</summary>
-    
-    
-    
-    <category term="小陈" scheme="https://zlblog.cf/categories/%E5%B0%8F%E9%99%88/"/>
-    
-    
-    <category term="小陈" scheme="https://zlblog.cf/tags/%E5%B0%8F%E9%99%88/"/>
-    
-    <category term="key" scheme="https://zlblog.cf/tags/key/"/>
     
   </entry>
   
@@ -350,6 +329,27 @@
     
     
     <category term="小陈" scheme="https://zlblog.cf/tags/%E5%B0%8F%E9%99%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小陈GPT-key分享</title>
+    <link href="https://zlblog.cf/posts/31814.html"/>
+    <id>https://zlblog.cf/posts/31814.html</id>
+    <published>2023-06-15T16:00:00.000Z</published>
+    <updated>2023-10-26T06:53:48.515Z</updated>
+    
+    
+    <summary type="html">key已失效，请使用夏DJ导航站置顶链接中的公益GPT，或者本站置顶第三个文章 “夏DJ导航站未收录的网站” 中的公益Gpt</summary>
+    
+    
+    
+    <category term="小陈" scheme="https://zlblog.cf/categories/%E5%B0%8F%E9%99%88/"/>
+    
+    
+    <category term="小陈" scheme="https://zlblog.cf/tags/%E5%B0%8F%E9%99%88/"/>
+    
+    <category term="key" scheme="https://zlblog.cf/tags/key/"/>
     
   </entry>
   
@@ -415,7 +415,7 @@
     <link href="https://zlblog.cf/posts/software.html"/>
     <id>https://zlblog.cf/posts/software.html</id>
     <published>2023-04-15T16:00:00.000Z</published>
-    <updated>2023-11-07T13:49:50.548Z</updated>
+    <updated>2023-11-12T03:24:30.217Z</updated>
     
     
     <summary type="html">实用软件推荐：提升工作效率、增强娱乐体验，让生活更轻松！</summary>
