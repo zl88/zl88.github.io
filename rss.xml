@@ -6,7 +6,7 @@
   <link href="https://zlblog.cf/rss.xml" rel="self"/>
   
   <link href="https://zlblog.cf/"/>
-  <updated>2023-12-14T05:10:57.327Z</updated>
+  <updated>2023-12-27T15:51:53.909Z</updated>
   <id>https://zlblog.cf/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一个简单易上手的新用户引导库：Driver.js</title>
+    <link href="https://zlblog.cf/posts/3.html"/>
+    <id>https://zlblog.cf/posts/3.html</id>
+    <published>2023-12-26T15:46:48.000Z</published>
+    <updated>2023-12-27T15:51:53.909Z</updated>
+    
+    
+    <summary type="html">功能强大且高度可定制的基于原生JavaScript开发的新用户引导库。它没有依赖项，支持所有主要浏览器。</summary>
+    
+    
+    
+    <category term="前端" scheme="https://zlblog.cf/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="分享" scheme="https://zlblog.cf/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="js" scheme="https://zlblog.cf/tags/js/"/>
+    
+    <category term="前端" scheme="https://zlblog.cf/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>免费纸模下载网站汇总</title>
@@ -31,9 +54,9 @@
     <category term="纸模" scheme="https://zlblog.cf/categories/%E7%BA%B8%E6%A8%A1/"/>
     
     
-    <category term="下载" scheme="https://zlblog.cf/tags/%E4%B8%8B%E8%BD%BD/"/>
-    
     <category term="转载" scheme="https://zlblog.cf/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+    <category term="下载" scheme="https://zlblog.cf/tags/%E4%B8%8B%E8%BD%BD/"/>
     
   </entry>
   
@@ -183,9 +206,9 @@
     <category term="前端" scheme="https://zlblog.cf/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="hexo" scheme="https://zlblog.cf/tags/hexo/"/>
-    
     <category term="前端" scheme="https://zlblog.cf/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="hexo" scheme="https://zlblog.cf/tags/hexo/"/>
     
   </entry>
   
@@ -428,29 +451,6 @@
     
     
     <category term="bat" scheme="https://zlblog.cf/tags/bat/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>精选实用电脑及手机等的软件分享</title>
-    <link href="https://zlblog.cf/posts/software.html"/>
-    <id>https://zlblog.cf/posts/software.html</id>
-    <published>2023-04-15T16:00:00.000Z</published>
-    <updated>2023-12-12T05:02:23.096Z</updated>
-    
-    
-    <summary type="html">实用软件推荐：提升工作效率、增强娱乐体验，让生活更轻松！</summary>
-    
-    
-    
-    <category term="分享" scheme="https://zlblog.cf/categories/%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="电脑" scheme="https://zlblog.cf/tags/%E7%94%B5%E8%84%91/"/>
-    
-    <category term="软件" scheme="https://zlblog.cf/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
-    <category term="手机" scheme="https://zlblog.cf/tags/%E6%89%8B%E6%9C%BA/"/>
     
   </entry>
   
