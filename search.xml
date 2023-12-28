@@ -8,23 +8,23 @@
       <link href="/posts/3.html"/>
       <url>/posts/3.html</url>
       
-        <content type="html"><![CDATA[<h1 id="driver-js"><a href="#driver-js" class="headerlink" title="driver.js"></a>driver.js</h1><blockquote><p>Driver.js是一个功能强大且高度可定制的基于原生JavaScript开发的新用户引导库。它没有依赖项，支持所有主要浏览器。</p></blockquote><p>Driver.js官网：<a href="https://driverjs.com">https://driverjs.com</a></p><p>原文文档地址：<a href="https://driverjs.com/docs/installation">https://driverjs.com/docs/installation</a></p><p>gitthub地址：<a href="https://github.com/kamranahmedse/driver.js">https://github.com/kamranahmedse/driver.js</a></p><p>Driver.js中文网：<a href="https://driver.employleague.cn">https://driver.employleague.cn</a><br><a class="btn-beautify green outline block center larger" id="buttonId">have a test</a></p><script src="https://cdn.jsdelivr.net/npm/driver.js@1.0.1/dist/driver.js.iife.js"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/driver.js@1.0.1/dist/driver.css"/><script>document.addEventListener("DOMContentLoaded", function () {const driver = window.driver.js.driver;const driverObj = driver({  showProgress: true,  overlayColor: 'black',  overlayOpacity: 0.9,  stagePadding: 8,  showButtons: ['下一步', '上一步'],  nextBtnText: '下一步', // Next button text for this step 下一步按钮的文字  prevBtnText: '上一步', // Previous button text for this step 上一步按钮文字  showButtons: true, // Do not show control buttons in footer 是否在底部显示按钮  doneBtnText: '完成', // Text on the final button 完成按钮的文字  steps: [    { element: '#article-container.post-content h1', popover: { title: '文章的第一个h1', description: '这是文章的第一个h1,文章的第一个h1文章的第一个h1', side: "left", align: 'start' }},    { element: 'blockquote', popover: { title: 'Import the Library', description: 'It works the same in vanilla JavaScript as well as frameworks.', side: "bottom", align: 'start' }},    { element: 'p:nth-child(3)', popover: { title: 'Importing CSS', description: 'Import the CSS which gives you the default styling for popover and overlay.', side: "bottom", align: 'start' }},    { element: 'figure', popover: { title: 'Create Driver', description: 'Simply call the driver function to create a driver.js instance', side: "left", align: 'start' }},    { element: '.code .line:nth-child(9)', popover: { title: 'Start Tour', description: 'Call the drive method to start the tour and your tour will be started.', side: "top", align: 'start' }},    { element: '#buttonId', popover: { title: 'More Configuration', description: 'Look at this page for all the configuration options you can pass.', side: "right", align: 'start' }},    { popover: { title: 'Happy Coding', description: 'And that is all, go ahead and start adding tours to your applications.' } }  ]});document.getElementById('buttonId').addEventListener('click', function () {// 启动引导driverObj.drive();});});</script><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">import &#123; driver &#125; from &quot;driver.js&quot;;</span><br><span class="line">import &quot;driver.js/dist/driver.css&quot;;</span><br><span class="line"></span><br><span class="line">const driverObj = driver(&#123;</span><br><span class="line">  showProgress: true,</span><br><span class="line">  steps: [</span><br><span class="line">    &#123; element: &#x27;#tour-example&#x27;, popover: &#123; title: &#x27;Animated Tour Example&#x27;, description: &#x27;Here is the code example showing animated tour. Let\&#x27;s walk you through it.&#x27;, side: &quot;left&quot;, align: &#x27;start&#x27; &#125;&#125;,</span><br><span class="line">    &#123; element: &#x27;code .line:nth-child(1)&#x27;, popover: &#123; title: &#x27;Import the Library&#x27;, description: &#x27;It works the same in vanilla JavaScript as well as frameworks.&#x27;, side: &quot;bottom&quot;, align: &#x27;start&#x27; &#125;&#125;,</span><br><span class="line">    &#123; element: &#x27;code .line:nth-child(2)&#x27;, popover: &#123; title: &#x27;Importing CSS&#x27;, description: &#x27;Import the CSS which gives you the default styling for popover and overlay.&#x27;, side: &quot;bottom&quot;, align: &#x27;start&#x27; &#125;&#125;,</span><br><span class="line">    &#123; element: &#x27;code .line:nth-child(4) span:nth-child(7)&#x27;, popover: &#123; title: &#x27;Create Driver&#x27;, description: &#x27;Simply call the driver function to create a driver.js instance&#x27;, side: &quot;left&quot;, align: &#x27;start&#x27; &#125;&#125;,</span><br><span class="line">    &#123; element: &#x27;code .line:nth-child(18)&#x27;, popover: &#123; title: &#x27;Start Tour&#x27;, description: &#x27;Call the drive method to start the tour and your tour will be started.&#x27;, side: &quot;top&quot;, align: &#x27;start&#x27; &#125;&#125;,</span><br><span class="line">    &#123; element: &#x27;a[href=&quot;/docs/configuration&quot;]&#x27;, popover: &#123; title: &#x27;More Configuration&#x27;, description: &#x27;Look at this page for all the configuration options you can pass.&#x27;, side: &quot;right&quot;, align: &#x27;start&#x27; &#125;&#125;,</span><br><span class="line">    &#123; popover: &#123; title: &#x27;Happy Coding&#x27;, description: &#x27;And that is all, go ahead and start adding tours to your applications.&#x27; &#125; &#125;</span><br><span class="line">  ]</span><br><span class="line">&#125;);</span><br><span class="line"></span><br><span class="line">driverObj.drive();</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<h1 id="driver-js"><a href="#driver-js" class="headerlink" title="driver.js"></a>driver.js</h1><blockquote><p>Driver.js是一个功能强大且高度可定制的基于原生JavaScript开发的新用户引导库。它没有依赖项，支持所有主要浏览器。</p></blockquote><p>Driver.js官网：<a href="https://driverjs.com">https://driverjs.com</a></p><p>英文文档地址：<a href="https://driverjs.com/docs/installation">https://driverjs.com/docs/installation</a></p><p>Driver.js中文网（更新不及时）：<a href="https://driver.employleague.cn">https://driver.employleague.cn</a></p><p>gitthub地址：<a href="https://github.com/kamranahmedse/driver.js">https://github.com/kamranahmedse/driver.js</a></p><p><a class="btn-beautify green outline block center larger" id="buttonId">体验一下</a></p><blockquote><p>若点击无反应，请刷新页面</p></blockquote><script src="https://cdn.jsdelivr.net/npm/driver.js@1.3.1/dist/driver.js.iife.js"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/driver.js@1.3.1/dist/driver.css"/><script>document.addEventListener("DOMContentLoaded", function () {const driver = window.driver.js.driver;const driverObj = driver({  showProgress: true,  overlayColor: 'black',  overlayOpacity: 0.8,  stagePadding: 8,  showButtons: ['下一步', '上一步'],  nextBtnText: '下一步', // Next button text for this step 下一步按钮的文字  prevBtnText: '上一步', // Previous button text for this step 上一步按钮文字  showButtons: true, // Do not show control buttons in footer 是否在底部显示按钮  doneBtnText: '完成', // Text on the final button 完成按钮的文字  steps: [    { element: '#article-container.post-content h1', popover: { title: '文章的第一个h1', description: '这是文章的第一个h1,文章的第一个h1文章的第一个h1', side: "left", align: 'start' }},    { element: 'blockquote', popover: { title: 'Import the Library', description: 'It works the same in vanilla JavaScript as well as frameworks.', side: "bottom", align: 'start' }},    { element: 'p:nth-child(3)', popover: { title: 'Importing CSS', description: 'Import the CSS which gives you the default styling for popover and overlay.', side: "bottom", align: 'start' }},    { element: 'table', popover: { title: 'Create Driver', description: 'Simply call the driver function to create a driver.js instance', side: "left", align: 'start' }},    { element: 'p:nth-child(6)', popover: { title: 'Start Tour', description: 'Call the drive method to start the tour and your tour will be started.', side: "top", align: 'start' }},    { element: '#buttonId', popover: { title: 'More Configuration', description: 'Look at this page for all the configuration options you can pass.', side: "right", align: 'start' }},    { popover: { title: 'Happy Coding', description: 'And that is all, go ahead and start adding tours to your applications.' } }  ]});document.getElementById('buttonId').addEventListener('click', function () {// 启动引导driverObj.drive();});});</script><h2 id="Driver-js-自定义字段"><a href="#Driver-js-自定义字段" class="headerlink" title="Driver.js 自定义字段"></a>Driver.js 自定义字段</h2><p>这里是driver需要了解的常用选项，更多请查看官方文档。</p><div class="table-container"><table><thead><tr><th>配置</th><th>含义</th><th>可选参数</th></tr></thead><tbody><tr><td>showProgress</td><td>是否展示步数</td><td><code>true</code> or<code>false</code></td></tr><tr><td>overlayColor</td><td>遮罩背景颜色</td><td>色值or表示颜色的单词</td></tr><tr><td>overlayOpacity</td><td>遮罩透明度</td><td>0~1，默认为<code>0.7</code></td></tr><tr><td>stagePadding</td><td>选中元素和引导框的边距</td><td>数值，默认为<code>10</code></td></tr><tr><td>showButtons</td><td>是否在底部显示按钮</td><td><code>true</code> or<code>false</code></td></tr><tr><td>nextBtnText</td><td>下一步按钮的文字</td><td>默认为<code>Next</code></td></tr><tr><td>prevBtnText</td><td>上一步按钮的文字</td><td>默认为<code>Previous</code></td></tr><tr><td>doneBtnText</td><td>完成按钮的文字</td><td>默认为<code>done</code></td></tr></tbody></table></div>]]></content>
       
       
       <categories>
           
-          <category> 前端 </category>
-          
           <category> 分享 </category>
+          
+          <category> 前端 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> js </tag>
-            
             <tag> 前端 </tag>
+            
+            <tag> js </tag>
             
         </tags>
       
@@ -230,9 +230,9 @@
       
         <tags>
             
-            <tag> 前端 </tag>
-            
             <tag> hexo </tag>
+            
+            <tag> 前端 </tag>
             
         </tags>
       
@@ -804,9 +804,9 @@
       
         <tags>
             
-            <tag> 转载 </tag>
-            
             <tag> iconfont </tag>
+            
+            <tag> 转载 </tag>
             
         </tags>
       
@@ -854,9 +854,9 @@
             
             <tag> 前端 </tag>
             
-            <tag> AE </tag>
-            
             <tag> lottie </tag>
+            
+            <tag> AE </tag>
             
         </tags>
       
@@ -1103,9 +1103,9 @@
       
       <categories>
           
-          <category> 前端 </category>
-          
           <category> 分享 </category>
+          
+          <category> 前端 </category>
           
       </categories>
       
@@ -1193,9 +1193,9 @@
       
         <tags>
             
-            <tag> ps </tag>
-            
             <tag> 转载 </tag>
+            
+            <tag> ps </tag>
             
         </tags>
       

@@ -6,7 +6,7 @@
   <link href="https://zlblog.cf/rss.xml" rel="self"/>
   
   <link href="https://zlblog.cf/"/>
-  <updated>2023-12-27T15:51:53.909Z</updated>
+  <updated>2023-12-28T11:03:00.292Z</updated>
   <id>https://zlblog.cf/</id>
   
   <author>
@@ -21,21 +21,21 @@
     <link href="https://zlblog.cf/posts/3.html"/>
     <id>https://zlblog.cf/posts/3.html</id>
     <published>2023-12-26T15:46:48.000Z</published>
-    <updated>2023-12-27T15:51:53.909Z</updated>
+    <updated>2023-12-28T11:03:00.292Z</updated>
     
     
     <summary type="html">功能强大且高度可定制的基于原生JavaScript开发的新用户引导库。它没有依赖项，支持所有主要浏览器。</summary>
     
     
     
-    <category term="前端" scheme="https://zlblog.cf/categories/%E5%89%8D%E7%AB%AF/"/>
-    
     <category term="分享" scheme="https://zlblog.cf/categories/%E5%88%86%E4%BA%AB/"/>
     
+    <category term="前端" scheme="https://zlblog.cf/categories/%E5%89%8D%E7%AB%AF/"/>
     
-    <category term="js" scheme="https://zlblog.cf/tags/js/"/>
     
     <category term="前端" scheme="https://zlblog.cf/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="js" scheme="https://zlblog.cf/tags/js/"/>
     
   </entry>
   
@@ -206,9 +206,9 @@
     <category term="前端" scheme="https://zlblog.cf/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="前端" scheme="https://zlblog.cf/tags/%E5%89%8D%E7%AB%AF/"/>
-    
     <category term="hexo" scheme="https://zlblog.cf/tags/hexo/"/>
+    
+    <category term="前端" scheme="https://zlblog.cf/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
