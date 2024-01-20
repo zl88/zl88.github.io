@@ -6,7 +6,7 @@
   <link href="https://zlblog.cf/rss.xml" rel="self"/>
   
   <link href="https://zlblog.cf/"/>
-  <updated>2023-12-28T11:03:00.292Z</updated>
+  <updated>2024-01-20T09:29:47.676Z</updated>
   <id>https://zlblog.cf/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Blender 操作备忘录</title>
+    <link href="https://zlblog.cf/posts/54368.html"/>
+    <id>https://zlblog.cf/posts/54368.html</id>
+    <published>2024-01-20T16:00:00.000Z</published>
+    <updated>2024-01-20T09:29:47.676Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Blender-中的快捷键&quot;&gt;&lt;a href=&quot;#Blender-中的快捷键&quot; class=&quot;headerlink&quot; title=&quot;Blender 中的快捷键&quot;&gt;&lt;/a&gt;Blender 中的快捷键&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;F12&lt;/strong&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="学习" scheme="https://zlblog.cf/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Blender" scheme="https://zlblog.cf/tags/Blender/"/>
+    
+  </entry>
+  
+  <entry>
     <title>一个简单易上手的新用户引导库：Driver.js</title>
     <link href="https://zlblog.cf/posts/3.html"/>
     <id>https://zlblog.cf/posts/3.html</id>
     <published>2023-12-26T15:46:48.000Z</published>
-    <updated>2023-12-28T11:03:00.292Z</updated>
+    <updated>2023-12-29T08:07:45.281Z</updated>
     
     
     <summary type="html">功能强大且高度可定制的基于原生JavaScript开发的新用户引导库。它没有依赖项，支持所有主要浏览器。</summary>
@@ -80,14 +105,14 @@
   </entry>
   
   <entry>
-    <title>周更：50天每日背单词计划</title>
+    <title>周更：2024年天每日背单词计划</title>
     <link href="https://zlblog.cf/posts/bbdc.html"/>
     <id>https://zlblog.cf/posts/bbdc.html</id>
     <published>2023-10-29T15:36:09.000Z</published>
-    <updated>2023-11-25T07:34:19.164Z</updated>
+    <updated>2024-01-20T03:02:28.396Z</updated>
     
     
-    <summary type="html">在这里记录自己每天单词打卡，努力每天背200个单词，一直坚持到考试前一天，加油~</summary>
+    <summary type="html">尽管考试已经过去，但英语总会用到, 所以继续每天学一点点，每日跟练新概念2,养成一个好习惯，加油~</summary>
     
     
     
@@ -185,9 +210,9 @@
     <category term="插件" scheme="https://zlblog.cf/categories/%E6%8F%92%E4%BB%B6/"/>
     
     
-    <category term="下载" scheme="https://zlblog.cf/tags/%E4%B8%8B%E8%BD%BD/"/>
-    
     <category term="AE" scheme="https://zlblog.cf/tags/AE/"/>
+    
+    <category term="下载" scheme="https://zlblog.cf/tags/%E4%B8%8B%E8%BD%BD/"/>
     
   </entry>
   
@@ -419,38 +444,27 @@
   </entry>
   
   <entry>
-    <title>老友有声—中老年有声书功能UX体验设计</title>
-    <link href="https://zlblog.cf/posts/1235.html"/>
-    <id>https://zlblog.cf/posts/1235.html</id>
-    <published>2023-05-19T16:00:00.000Z</published>
-    <updated>2023-11-12T11:57:32.190Z</updated>
+    <title>Adobe After Effects 操作备忘录</title>
+    <link href="https://zlblog.cf/posts/2460.html"/>
+    <id>https://zlblog.cf/posts/2460.html</id>
+    <published>2023-05-25T13:36:19.000Z</published>
+    <updated>2023-12-29T14:34:13.100Z</updated>
     
     
-    <summary type="html">专注服务老年人，提供便捷的有声书体验。用户友好的操作界面旨在增进老年人的参与感，改善中老年人在独居环境中的生活品质。</summary>
-    
-    
-    
-    
-    <category term="UX" scheme="https://zlblog.cf/tags/UX/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>bat批量处理，解放双手</title>
-    <link href="https://zlblog.cf/posts/200425.html"/>
-    <id>https://zlblog.cf/posts/200425.html</id>
-    <published>2023-05-07T16:00:00.000Z</published>
-    <updated>2023-10-26T05:49:03.770Z</updated>
-    
-    
-    <summary type="html">.bat文件作为一种自动化工具，可以用于批量处理相同或类似的任务，从而提高效率、减轻工作负担</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;ae快速剪辑剪切视频素材&quot;&gt;&lt;a href=&quot;#ae快速剪辑剪切视频素材&quot; class=&quot;headerlink&quot; title=&quot;ae快速剪辑剪切视频素材&quot;&gt;&lt;/a&gt;ae快速剪辑剪切视频素材&lt;/h3&gt;&lt;details class=&quot;folding-tag&quot;</summary>
+        
+      
     
     
     
-    <category term="分享" scheme="https://zlblog.cf/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="学习" scheme="https://zlblog.cf/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="bat" scheme="https://zlblog.cf/tags/bat/"/>
+    <category term="AE" scheme="https://zlblog.cf/tags/AE/"/>
     
   </entry>
   

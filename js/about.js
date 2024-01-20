@@ -1,1 +1,104 @@
-function whenDOMReady(){location.pathname.startsWith("/about/")&&(meuicat.comments(),meuicat.Introduction(),meuicat.runtimen(),meuicat.fiftyonela())}whenDOMReady(),document.addEventListener("pjax:complete",whenDOMReady);let lastSayHello="";var meuicat={comments:function(){fetch("/article.json").then((e=>e.json())).then((e=>{Object.keys(e);fetch("https://twikoo.jessaybluck.cf/",{method:"POST",body:JSON.stringify({event:"GET_RECENT_COMMENTS",accessToken:"prj_92SfgsNRPbXIVUmT91AUBk1b6sX3",includeReply:!0,pageSize:-1}),headers:{"Content-Type":"application/json"}}).then((e=>e.json())).then((({data:e})=>{const t=e.length;document.querySelectorAll(".N_comments").forEach((e=>{e.classList.contains("N_comments")?e.innerText=t+"条评论":console.log("iCat提醒您：\n\n评论总数功能无法获取到正确的元素，请检查页面是否正常！\n\n教程地址：https://meuicat.com/blog/78/")}))}))}))},Introduction:function(){const e=["🤖️ 数码科技爱好者","👨‍👩‍👧‍👦 家庭幸福的忠实捍卫者","🔍 分享与热心帮助","🏠 智能家居小能手","🔖 素材搬运工","👨‍🎓 坚定的马克思主义者","🌍 对环保事业热衷投身者","🏃 脚踏实地行动派","🎓 学无止境的永恒学者","🌱 关注植物生长的园艺爱好者","📚 书海中的漫游者","🎵 音乐永远的依靠","🏋️‍♀️ 坚韧不拔的健身达人","🍜 走哪吃哪的美食迷","👨‍🍳 一位爱做饭的设计师","💻 程序代码的执着追求者"],t=document.getElementById("Introduction");let n=e[Math.floor(Math.random()*e.length)];for(;n===lastSayHello;)n=e[Math.floor(Math.random()*e.length)];t.textContent=n,lastSayHello=n},runtimen:function(){let e=new Date("2021/01/01 00:00:00").getTime(),t=(new Date).getTime(),n=(Math.round((t-e)/1e3)/7884e4).toFixed(2),o=document.getElementById("run-time");o&&(o.innerHTML=`已稳定运行 ${n} 坤年 🏀`),setTimeout(meuicat.runtime,1e3)},fiftyonela:function(){fetch("https://v6-widget.51.la/v6/KFid4eeJFNpy6xsq/quote.js").then((e=>e.text())).then((e=>{let t=["今日人数","今日访问","昨日人数","昨日访问","本月访问"],n=e.match(/(<\/span><span>).*?(\/span><\/p>)/g);n=n.map((e=>e.replace(/(<\/span><span>)/g,"").replace(/(<\/span><\/p>)/g,"")));let o=document.getElementById("statistic"),a=n[0],i=document.querySelector(".T-box");i&&(i.innerHTML="最近活跃："+a+"&ensp;|&ensp;"+i.innerHTML);for(let e=0;e<n.length;e++){if(!o)return;0!=e&&e!=n.length-1&&(o.innerHTML+='<div><span class="tips">'+t[e-1]+"</span><span id="+t[e-1]+">"+n[e]+"</span></div>")}}))}};
+function whenDOMReady() {
+	if (location.pathname.startsWith('/about/')) meuicat.comments(), meuicat.Introduction(), meuicat.runtimen(), meuicat.fiftyonela();
+}
+
+whenDOMReady() // 打开网站先执行一次
+document.addEventListener("pjax:complete", whenDOMReady) // pjax加载完成（切换页面）后再执行一次
+
+let lastSayHello = "";
+var meuicat = {
+	comments: function() {
+		fetch('/article.json')
+		.then(res => res.json())
+		.then(articleData => {
+			const urls = Object.keys(articleData);
+		
+			fetch('https://twikoo.jessaybluck.cf/', {
+			method: "POST",
+			body: JSON.stringify({ event: "GET_RECENT_COMMENTS", accessToken: "prj_92SfgsNRPbXIVUmT91AUBk1b6sX3", includeReply: true, pageSize: -1 }),
+			headers: { 'Content-Type': 'application/json' }
+			})
+			.then(res => res.json())
+			.then(({ data }) => {
+				const totalComments = data.length;
+				const commentElements = document.querySelectorAll('.N_comments');
+				commentElements.forEach(element => {
+					if (element.classList.contains('N_comments')) {
+						element.innerText = totalComments + '条评论';
+					} else {
+						console.log(`iCat提醒您：\n\n评论总数功能无法获取到正确的元素，请检查页面是否正常！\n\n教程地址：https://meuicat.com/blog/78/`);
+					}
+				});
+			});
+		});
+	}, // 总评论数量
+	Introduction: function() {
+		const e = [
+				"🤖️ 数码科技爱好者",
+				"👨‍👩‍👧‍👦 家庭幸福的忠实捍卫者",
+				"🔍 分享与热心帮助",
+				"🏠 智能家居小能手",
+				"🔖 素材搬运工",
+				// "🔨 设计开发一条龙",
+				// "📷 人文摄影的坚定者",
+				"👨‍🎓 坚定的马克思主义者",
+				"🌍 对环保事业热衷投身者",
+				"🏃 脚踏实地行动派",
+				"🎓 学无止境的永恒学者",
+                "🌱 关注植物生长的园艺爱好者",
+				"📚 书海中的漫游者",
+				"🎵 音乐永远的依靠",
+				"🏋️‍♀️ 坚韧不拔的健身达人",
+				"🍜 走哪吃哪的美食迷",
+				// "🎮 Minecraft骨灰级玩家",
+				"👨‍🍳 一位爱做饭的设计师",
+				"💻 程序代码的执着追求者",
+			],
+			t = document.getElementById("Introduction");
+		let o = e[Math.floor(Math.random() * e.length)];
+		for (; o === lastSayHello;) o = e[Math.floor(Math.random() * e.length)];
+		(t.textContent = o), (lastSayHello = o);
+	}, // about 个人介绍词
+	runtimen: function() {
+		let t = new Date("2021/01/01 00:00:00")
+			.getTime(),
+			n = new Date()
+			.getTime(),
+			a = Math.round((n - t) / 1e3),
+			l = (a / 7884e4)
+			.toFixed(2);
+		let c = document.getElementById("run-time");
+		c && (c.innerHTML = `已稳定运行 ${l} 坤年 🏀`),
+			setTimeout(meuicat.runtime, 1e3);
+	}, // about 运行时间
+	fiftyonela: function() {
+		fetch('https://v6-widget.51.la/v6/KFid4eeJFNpy6xsq/quote.js')
+			.then(res => res.text())
+			.then((data) => {
+				let title = ['今日人数', '今日访问', '昨日人数', '昨日访问', '本月访问']
+				let num = data.match(/(<\/span><span>).*?(\/span><\/p>)/g)
+	
+				num = num.map((el) => {
+					let val = el.replace(/(<\/span><span>)/g, '')
+					let str = val.replace(/(<\/span><\/p>)/g, '')
+					return str
+				})
+	
+				let statisticEl = document.getElementById('statistic')
+				let activeVisitors = num[0]
+	
+				// 添加最近活跃访客的内容
+				let TBoxEl = document.querySelector('.T-box')
+				if (TBoxEl) {
+					TBoxEl.innerHTML = '最近活跃：' + activeVisitors + '&ensp;|&ensp;' + TBoxEl.innerHTML
+				}
+	
+				// 自定义不显示哪个或者显示哪个，如下不显示总访问量
+				for (let i = 0; i < num.length; i++) {
+					if (!statisticEl) return
+					if (i == 0 || i == num.length - 1) continue;
+					statisticEl.innerHTML += '<div><span class="tips">' + title[i - 1] + '</span><span id=' + title[i - 1] + '>' + num[i] + '</span></div>'
+				}
+			});
+	} // about 51la统计显示
+}

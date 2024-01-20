@@ -1,1 +1,137 @@
-<!DOCTYPE html><html xmlns=http://www.w3.org/1999/xhtml><head><meta charset=utf-8><meta name=renderer content=webkit><meta http-equiv=X-UA-Compatible content="IE=edge"><meta http-equiv=Cache-Control content=no-transform><meta http-equiv=Cache-Control content=no-siteapp><meta name=viewport content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1"><title>教你必应| 有求必应</title><link rel="shortcut icon" href=./img/favicon.ico><link rel=stylesheet href=css/style.css><script src=js/jquery.min.js></script><script src=js/base64.min.js></script><script src=js/clipboard.min.js></script><script src=js/script.js></script></head><body><section id=search><div class=search-header><h2><img src=https://bing.asshell.top/img/Microsoft_Bing_logo.svg alt=bing title=必应></h2></div><form id=search-form><div class=search-form-group><div class=search-form-input><input type=search id=kw maxlength=255 autocomplete=off required></div><button id=search-submit>必应一下</button></div></form></section><section id=function><p id=tips>输入一个问题，然后点击必应一下</p><button id=stop>我也秀一个</button><div id=output><textarea id=url-output rows=3 readonly></textarea><div class=tool-btns><button data-clipboard-target=#url-output>复制</button><button id=preview>预览</button></div></div></section><footer id=footer><ul class=footer-left><li><a href=https://github.com/mengkunsoft/lmbtfy target=_blank>源码下载</a></li><li><a href=http://lab.mkblog.cn/ target=_blank>源码作者的其他作品</a></li></ul><ul class=footer-right><li>* 本站与必应公司没有任何联系，bing 以及本站出现的必应公司 Logo 是必应公司的商标</li></ul></footer><div id=arrow></div></body><script>var myDate=new Date,mon=myDate.getMonth()+1,date=myDate.getDate(),days=["4.4","5.12","7.7","9.9","9.18","12.13"],sweetalertUrl="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/limonte-sweetalert2/8.19.0/sweetalert2.all.min.js",animateCssUrl="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/animate.css/4.1.1/animate.min.css",fontAwesomeUrl="https://cdn.bootcdn.net/ajax/libs/font-awesome/6.4.2/css/all.min.css";for(var day of days){var d=day.split(".");mon==d[0]&&date==d[1]&&document.addEventListener("DOMContentLoaded",(function(){var e=document.createElement("style");e.textContent="html {filter: gray!important; -webkit-filter: grayscale(95%)!important; filter: grayscale(95%)!important;} @media screen and(max-width:768px) {.layout{filter: gray!important; -webkit-filter: grayscale(95%)!important; filter: grayscale(95%)!important;}}",document.head.appendChild(e);var t=document.createElement("script");t.src=sweetalertUrl,t.onload=function(){Swal.fire({title:'<strong><i class="fa-regular fa-clock"></i> 今天是 <u>中国国家纪念日</u></strong>',text:"教你必应 | 有求必应， 已切换为黑白模式!",imageUrl:"https://cdn.h5ds.com/space/files/600972551685382144/20230909/624800894923931648.jpg",imageWidth:400,imageHeight:200,imageAlt:"Custom image",focusConfirm:!1,confirmButtonText:'<i class="fa-solid fa-hands-praying"></i> 默哀!',animation:!0,customClass:{popup:"kapian animated rubberBand"},padding:"0.5em 2em",background:"#ffffffcf  bottom right repeat ",backdrop:"rgba(0,0,123,0.4)",timer:999999})},document.body.appendChild(t);var a=document.createElement("link");a.rel="stylesheet",a.href=animateCssUrl,document.head.appendChild(a);var n=document.createElement("link");n.rel="stylesheet",n.href=fontAwesomeUrl,document.head.appendChild(n)}))}</script></html>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Cache-Control" content="no-transform">
+    <meta http-equiv="Cache-Control" content="no-siteapp">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+
+    <title>教你必应| 有求必应</title>
+
+    <!-- <link rel="shortcut icon" href="./img/favicon.jpeg"> -->
+    <link rel="shortcut icon" href="./img/favicon.ico">
+    <link rel="stylesheet" href="css/style.css" />
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/base64.min.js"></script>
+    <script src="js/clipboard.min.js"></script>
+    <script src="js/script.js"></script>
+</head>
+
+<body>
+    <section id="search">
+        <div class="search-header">
+            <h2>
+                <!-- <span class="let-me">必应</span> -->
+                <img src="https://bing.asshell.top/img/Microsoft_Bing_logo.svg" alt="bing" title="必应">
+                <!-- <img src="img/by_logo.gif" alt="bing" title="有求必应">  -->
+                <!-- <span class="for-you">一下</span> -->
+            </h2>
+        </div>
+
+        <form id="search-form">
+            <div class="search-form-group">
+                <div class="search-form-input">
+                    <input type="search" id="kw" maxlength="255" autocomplete="off" required>
+                </div>
+                <button id="search-submit">必应一下</button>
+            </div>
+        </form>
+    </section>
+
+    <section id="function">
+        <p id="tips">输入一个问题，然后点击必应一下</p>
+
+        <button id="stop">我也秀一个</button>
+
+        <div id="output">
+            <textarea id="url-output" rows="3" readonly></textarea>
+            <div class="tool-btns">
+                <button data-clipboard-target="#url-output">复制</button>
+                <button id="preview">预览</button>
+            </div>
+        </div>
+    </section>
+
+    <footer id="footer">
+        <ul class="footer-left">
+            <li><a href="https://github.com/mengkunsoft/lmbtfy" target="_blank">源码下载</a></li>
+            <li><a href="http://lab.mkblog.cn/" target="_blank">源码作者的其他作品</a></li>
+        </ul>
+        <ul class="footer-right">
+            <li>* 本站与必应公司没有任何联系，bing 以及本站出现的必应公司 Logo 是必应公司的商标</li>
+        </ul>
+    </footer>
+
+    <div id="arrow"></div>
+</body>
+<script>
+
+    //自动变灰  💕💕💕💕💕💕💕
+    var myDate = new Date;
+    var mon = myDate.getMonth() + 1;
+    var date = myDate.getDate();
+
+    var days = ['4.4', '5.12', '7.7', '9.9', '9.18', '12.13'];
+
+    // 外链的URL 
+    var sweetalertUrl = "https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/limonte-sweetalert2/8.19.0/sweetalert2.all.min.js";  //弹窗动画
+    var animateCssUrl = "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/animate.css/4.1.1/animate.min.css"; //动画库
+    var fontAwesomeUrl = "https://cdn.bootcdn.net/ajax/libs/font-awesome/6.4.2/css/all.min.css"; //图标库
+
+    for (var day of days) {
+        var d = day.split('.');
+        if (mon == d[0] && date == d[1]) {
+            document.addEventListener('DOMContentLoaded', function () {
+                var styleElement = document.createElement('style');
+                styleElement.textContent = 'html {filter: gray!important; -webkit-filter: grayscale(95%)!important; filter: grayscale(95%)!important;} @media screen and(max-width:768px) {.layout{filter: gray!important; -webkit-filter: grayscale(95%)!important; filter: grayscale(95%)!important;}}';
+                document.head.appendChild(styleElement);
+
+                // 动态加载sweetalert2
+                var sweetalertScript = document.createElement('script');
+                sweetalertScript.src = sweetalertUrl;
+                sweetalertScript.onload = function () {
+                    // Sweetalert2已加载完毕
+                    Swal.fire({
+                        title: '<strong><i class="fa-regular fa-clock"></i> 今天是 <u>中国国家纪念日</u></strong>',
+                        text: '教你必应 | 有求必应， 已切换为黑白模式!',
+                        imageUrl: 'https://cdn.h5ds.com/space/files/600972551685382144/20230909/624800894923931648.jpg',
+                        imageWidth: 400,
+                        imageHeight: 200,
+                        imageAlt: 'Custom image',
+                        focusConfirm: false,
+                        confirmButtonText: '<i class="fa-solid fa-hands-praying"></i> 默哀!',
+                        animation: true,
+                        customClass: {
+                            popup: 'kapian animated rubberBand'
+                        },
+                        padding: '0.5em 2em',
+                        background: '#ffffffcf  bottom right repeat ',
+                        backdrop: `rgba(0,0,123,0.4)`,
+                        timer: 999999,
+                    });
+                };
+                document.body.appendChild(sweetalertScript);
+
+                // 动态加载animate.css
+                var animateCssLink = document.createElement('link');
+                animateCssLink.rel = 'stylesheet';
+                animateCssLink.href = animateCssUrl;
+                document.head.appendChild(animateCssLink);
+
+                // 动态加载font-awesome
+                var fontAwesomeLink = document.createElement('link');
+                fontAwesomeLink.rel = 'stylesheet';
+                fontAwesomeLink.href = fontAwesomeUrl;
+                document.head.appendChild(fontAwesomeLink);
+            });
+        }
+    }
+
+
+</script>
+
+</html>
