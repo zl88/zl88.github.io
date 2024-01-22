@@ -53,9 +53,9 @@
     
     
     
-    <category term="前端" scheme="https://zlblog.cf/categories/%E5%89%8D%E7%AB%AF/"/>
-    
     <category term="分享" scheme="https://zlblog.cf/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="前端" scheme="https://zlblog.cf/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
     <category term="前端" scheme="https://zlblog.cf/tags/%E5%89%8D%E7%AB%AF/"/>
@@ -69,7 +69,7 @@
     <link href="https://zlblog.cf/posts/40172.html"/>
     <id>https://zlblog.cf/posts/40172.html</id>
     <published>2023-11-22T05:00:19.000Z</published>
-    <updated>2023-12-14T05:10:57.327Z</updated>
+    <updated>2024-01-22T12:08:49.343Z</updated>
     
     
     <summary type="html">有相当多的纸模非常不错，难度有简易也有难，非常适合入门</summary>
@@ -231,9 +231,9 @@
     <category term="前端" scheme="https://zlblog.cf/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="前端" scheme="https://zlblog.cf/tags/%E5%89%8D%E7%AB%AF/"/>
-    
     <category term="hexo" scheme="https://zlblog.cf/tags/hexo/"/>
+    
+    <category term="前端" scheme="https://zlblog.cf/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
@@ -375,75 +375,6 @@
   </entry>
   
   <entry>
-    <title>小陈GPT使用</title>
-    <link href="https://zlblog.cf/posts/581162.html"/>
-    <id>https://zlblog.cf/posts/581162.html</id>
-    <published>2023-06-15T16:00:00.000Z</published>
-    <updated>2023-11-28T10:02:21.390Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;div class=&quot;tip bell&quot;&gt;&lt;p&gt;key已失效，请使用夏DJ导航站置顶链接中的公益GPT&lt;/p&gt;
-&lt;/div&gt;
-&lt;!-- &lt;div class=&quot;note danger</summary>
-        
-      
-    
-    
-    
-    <category term="小陈" scheme="https://zlblog.cf/categories/%E5%B0%8F%E9%99%88/"/>
-    
-    
-    <category term="小陈" scheme="https://zlblog.cf/tags/%E5%B0%8F%E9%99%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>小陈GPT-key分享</title>
-    <link href="https://zlblog.cf/posts/31814.html"/>
-    <id>https://zlblog.cf/posts/31814.html</id>
-    <published>2023-06-15T16:00:00.000Z</published>
-    <updated>2023-11-28T10:04:15.922Z</updated>
-    
-    
-    <summary type="html">key已失效，请使用夏DJ导航站置顶链接中的公益GPT，或者本站置顶第三个文章 “夏DJ导航站未收录的网站” 中的公益Gpt</summary>
-    
-    
-    
-    <category term="小陈" scheme="https://zlblog.cf/categories/%E5%B0%8F%E9%99%88/"/>
-    
-    
-    <category term="小陈" scheme="https://zlblog.cf/tags/%E5%B0%8F%E9%99%88/"/>
-    
-    <category term="key" scheme="https://zlblog.cf/tags/key/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>长大后才明白的道理</title>
-    <link href="https://zlblog.cf/posts/33044.html"/>
-    <id>https://zlblog.cf/posts/33044.html</id>
-    <published>2023-06-04T13:38:42.000Z</published>
-    <updated>2023-10-30T21:08:01.503Z</updated>
-    
-    
-    <summary type="html">曾经小陈问过我一个问题：“人为什么要活着？” 我答不上来，现在睡不着又来想这个问题。</summary>
-    
-    
-    
-    <category term="随记" scheme="https://zlblog.cf/categories/%E9%9A%8F%E8%AE%B0/"/>
-    
-    
-    <category term="日常" scheme="https://zlblog.cf/tags/%E6%97%A5%E5%B8%B8/"/>
-    
-    <category term="随记" scheme="https://zlblog.cf/tags/%E9%9A%8F%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Adobe After Effects 操作备忘录</title>
     <link href="https://zlblog.cf/posts/2460.html"/>
     <id>https://zlblog.cf/posts/2460.html</id>
@@ -465,6 +396,65 @@
     
     
     <category term="AE" scheme="https://zlblog.cf/tags/AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>老友有声—中老年有声书功能UX体验设计</title>
+    <link href="https://zlblog.cf/posts/1235.html"/>
+    <id>https://zlblog.cf/posts/1235.html</id>
+    <published>2023-05-19T16:00:00.000Z</published>
+    <updated>2023-11-12T11:57:32.190Z</updated>
+    
+    
+    <summary type="html">专注服务老年人，提供便捷的有声书体验。用户友好的操作界面旨在增进老年人的参与感，改善中老年人在独居环境中的生活品质。</summary>
+    
+    
+    
+    
+    <category term="UX" scheme="https://zlblog.cf/tags/UX/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>bat批量处理，解放双手</title>
+    <link href="https://zlblog.cf/posts/200425.html"/>
+    <id>https://zlblog.cf/posts/200425.html</id>
+    <published>2023-05-07T16:00:00.000Z</published>
+    <updated>2023-10-26T05:49:03.770Z</updated>
+    
+    
+    <summary type="html">.bat文件作为一种自动化工具，可以用于批量处理相同或类似的任务，从而提高效率、减轻工作负担</summary>
+    
+    
+    
+    <category term="分享" scheme="https://zlblog.cf/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="bat" scheme="https://zlblog.cf/tags/bat/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>精选实用电脑及手机等的软件分享</title>
+    <link href="https://zlblog.cf/posts/software.html"/>
+    <id>https://zlblog.cf/posts/software.html</id>
+    <published>2023-04-15T16:00:00.000Z</published>
+    <updated>2024-01-16T02:19:42.808Z</updated>
+    
+    
+    <summary type="html">实用软件推荐：提升工作效率、增强娱乐体验，让生活更轻松！</summary>
+    
+    
+    
+    <category term="分享" scheme="https://zlblog.cf/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="电脑" scheme="https://zlblog.cf/tags/%E7%94%B5%E8%84%91/"/>
+    
+    <category term="软件" scheme="https://zlblog.cf/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="手机" scheme="https://zlblog.cf/tags/%E6%89%8B%E6%9C%BA/"/>
     
   </entry>
   
