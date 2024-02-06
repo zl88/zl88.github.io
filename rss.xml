@@ -6,7 +6,7 @@
   <link href="https://zlblog.cf/rss.xml" rel="self"/>
   
   <link href="https://zlblog.cf/"/>
-  <updated>2024-01-20T09:29:47.676Z</updated>
+  <updated>2024-02-06T14:18:06.189Z</updated>
   <id>https://zlblog.cf/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://zlblog.cf/posts/54368.html"/>
     <id>https://zlblog.cf/posts/54368.html</id>
     <published>2024-01-20T16:00:00.000Z</published>
-    <updated>2024-01-20T09:29:47.676Z</updated>
+    <updated>2024-02-06T14:18:06.189Z</updated>
     
     
       
@@ -37,6 +37,8 @@
     <category term="学习" scheme="https://zlblog.cf/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
+    <category term="笔记" scheme="https://zlblog.cf/tags/%E7%AC%94%E8%AE%B0/"/>
+    
     <category term="Blender" scheme="https://zlblog.cf/tags/Blender/"/>
     
   </entry>
@@ -46,7 +48,7 @@
     <link href="https://zlblog.cf/posts/3.html"/>
     <id>https://zlblog.cf/posts/3.html</id>
     <published>2023-12-26T15:46:48.000Z</published>
-    <updated>2023-12-29T08:07:45.281Z</updated>
+    <updated>2024-02-03T08:23:44.820Z</updated>
     
     
     <summary type="html">功能强大且高度可定制的基于原生JavaScript开发的新用户引导库。它没有依赖项，支持所有主要浏览器。</summary>
@@ -69,7 +71,7 @@
     <link href="https://zlblog.cf/posts/40172.html"/>
     <id>https://zlblog.cf/posts/40172.html</id>
     <published>2023-11-22T05:00:19.000Z</published>
-    <updated>2024-01-22T12:08:49.343Z</updated>
+    <updated>2024-02-04T06:55:48.094Z</updated>
     
     
     <summary type="html">有相当多的纸模非常不错，难度有简易也有难，非常适合入门</summary>
@@ -90,7 +92,7 @@
     <link href="https://zlblog.cf/posts/quicker.html"/>
     <id>https://zlblog.cf/posts/quicker.html</id>
     <published>2023-11-03T05:17:01.000Z</published>
-    <updated>2023-11-28T14:48:25.777Z</updated>
+    <updated>2024-02-02T09:06:43.794Z</updated>
     
     
     <summary type="html">一款快捷启动和自定义操作软件，提高工作效率。它拥有简单易用的界面和丰富的社区动作库分享，适应不同用户的需求。能够在更短的时间内完成更多任务，帮助用户快速实现目标。</summary>
@@ -109,7 +111,7 @@
     <link href="https://zlblog.cf/posts/bbdc.html"/>
     <id>https://zlblog.cf/posts/bbdc.html</id>
     <published>2023-10-29T15:36:09.000Z</published>
-    <updated>2024-01-20T03:02:28.396Z</updated>
+    <updated>2024-01-20T03:02:28.000Z</updated>
     
     
     <summary type="html">尽管考试已经过去，但英语总会用到, 所以继续每天学一点点，每日跟练新概念2,养成一个好习惯，加油~</summary>
@@ -130,7 +132,7 @@
     <link href="https://zlblog.cf/posts/666.html"/>
     <id>https://zlblog.cf/posts/666.html</id>
     <published>2023-10-14T19:40:54.000Z</published>
-    <updated>2023-11-22T01:11:03.568Z</updated>
+    <updated>2024-02-06T10:22:38.921Z</updated>
     
     
     <summary type="html">世界现代设计史王守之著（中国青年第二版）知识点精讲精练核心笔记 考点综合挖空题</summary>
@@ -151,7 +153,7 @@
     <link href="https://zlblog.cf/posts/31695.html"/>
     <id>https://zlblog.cf/posts/31695.html</id>
     <published>2023-10-11T07:28:51.000Z</published>
-    <updated>2023-10-26T05:26:35.850Z</updated>
+    <updated>2023-10-26T05:26:35.000Z</updated>
     
     
     <summary type="html">一大早家里停电停水了，很不方便，中午便回了老家一趟，在老家晒了晒太阳，跳了一会跳绳。</summary>
@@ -172,7 +174,7 @@
     <link href="https://zlblog.cf/posts/16765.html"/>
     <id>https://zlblog.cf/posts/16765.html</id>
     <published>2023-09-17T04:05:03.000Z</published>
-    <updated>2023-10-26T05:26:49.111Z</updated>
+    <updated>2023-10-26T05:26:49.000Z</updated>
     
     
       
@@ -200,7 +202,7 @@
     <link href="https://zlblog.cf/posts/14709.html"/>
     <id>https://zlblog.cf/posts/14709.html</id>
     <published>2023-09-16T14:00:10.000Z</published>
-    <updated>2023-10-23T12:02:00.986Z</updated>
+    <updated>2023-10-23T12:02:00.000Z</updated>
     
     
     <summary type="html">AE / PR 视觉特效插件合集 REVisionFX Effections Plus v22.09 CE Win 包含 Twixtor / Flicker / RSMB运动模糊插件</summary>
@@ -221,7 +223,7 @@
     <link href="https://zlblog.cf/posts/14821.html"/>
     <id>https://zlblog.cf/posts/14821.html</id>
     <published>2023-07-03T12:04:38.000Z</published>
-    <updated>2023-10-26T05:50:34.590Z</updated>
+    <updated>2023-10-26T05:50:34.000Z</updated>
     
     
     <summary type="html">修改了洪哥的twikoo评论回复邮件模板，可自定义模板色调，本着开源的精神也分享了出来。</summary>
@@ -242,7 +244,7 @@
     <link href="https://zlblog.cf/posts/9021.html"/>
     <id>https://zlblog.cf/posts/9021.html</id>
     <published>2023-07-02T04:33:03.000Z</published>
-    <updated>2023-10-26T05:25:46.125Z</updated>
+    <updated>2023-10-26T05:25:46.000Z</updated>
     
     
     <summary type="html">在你的hexo博客的侧边栏展示不背单词app近一周的学习情况</summary>
@@ -263,7 +265,7 @@
     <link href="https://zlblog.cf/posts/406391.html"/>
     <id>https://zlblog.cf/posts/406391.html</id>
     <published>2023-06-28T08:22:34.000Z</published>
-    <updated>2023-10-26T05:48:40.297Z</updated>
+    <updated>2023-10-26T05:48:40.000Z</updated>
     
     
     <summary type="html">使用 Stable Diffusion 的 ControlNet 插件来实现天猫超级符号延展设计，并配合 Bate 版 Adobe Photoshop 进行局部的调整和细节优化</summary>
@@ -284,7 +286,7 @@
     <link href="https://zlblog.cf/posts/46337.html"/>
     <id>https://zlblog.cf/posts/46337.html</id>
     <published>2023-06-28T08:18:05.000Z</published>
-    <updated>2023-10-26T05:23:36.179Z</updated>
+    <updated>2023-10-26T05:23:36.000Z</updated>
     
     
       
@@ -314,7 +316,7 @@
     <link href="https://zlblog.cf/posts/3185.html"/>
     <id>https://zlblog.cf/posts/3185.html</id>
     <published>2023-06-23T16:00:00.000Z</published>
-    <updated>2023-10-26T05:30:54.351Z</updated>
+    <updated>2023-10-26T05:30:54.000Z</updated>
     
     
     <summary type="html">推荐使用卡片链接里的油猴脚本或使用下列佰度网盘解析站，搭配64线程下载器Motrix可以实现高速下载文件。</summary>
@@ -333,7 +335,7 @@
     <link href="https://zlblog.cf/posts/34228.html"/>
     <id>https://zlblog.cf/posts/34228.html</id>
     <published>2023-06-23T16:00:00.000Z</published>
-    <updated>2023-10-26T05:28:25.565Z</updated>
+    <updated>2023-10-26T05:28:25.000Z</updated>
     
     
       
@@ -358,7 +360,7 @@
     <link href="https://zlblog.cf/posts/PS-beat.html"/>
     <id>https://zlblog.cf/posts/PS-beat.html</id>
     <published>2023-06-16T16:00:00.000Z</published>
-    <updated>2023-11-16T12:56:02.633Z</updated>
+    <updated>2023-11-16T12:56:02.000Z</updated>
     
     
     <summary type="html">由于PS打击盗版，本教程已失效。花钱买正版PS+漂亮国魔法吧,  或者尽早学Stable Diffusion来作图，但白嫖魔法有效。</summary>
@@ -379,7 +381,7 @@
     <link href="https://zlblog.cf/posts/2460.html"/>
     <id>https://zlblog.cf/posts/2460.html</id>
     <published>2023-05-25T13:36:19.000Z</published>
-    <updated>2023-12-29T14:34:13.100Z</updated>
+    <updated>2024-02-06T14:17:47.722Z</updated>
     
     
       
@@ -397,6 +399,8 @@
     
     <category term="AE" scheme="https://zlblog.cf/tags/AE/"/>
     
+    <category term="笔记" scheme="https://zlblog.cf/tags/%E7%AC%94%E8%AE%B0/"/>
+    
   </entry>
   
   <entry>
@@ -404,7 +408,7 @@
     <link href="https://zlblog.cf/posts/1235.html"/>
     <id>https://zlblog.cf/posts/1235.html</id>
     <published>2023-05-19T16:00:00.000Z</published>
-    <updated>2023-11-12T11:57:32.190Z</updated>
+    <updated>2023-11-12T11:57:32.000Z</updated>
     
     
     <summary type="html">专注服务老年人，提供便捷的有声书体验。用户友好的操作界面旨在增进老年人的参与感，改善中老年人在独居环境中的生活品质。</summary>
@@ -421,7 +425,7 @@
     <link href="https://zlblog.cf/posts/200425.html"/>
     <id>https://zlblog.cf/posts/200425.html</id>
     <published>2023-05-07T16:00:00.000Z</published>
-    <updated>2023-10-26T05:49:03.770Z</updated>
+    <updated>2023-10-26T05:49:03.000Z</updated>
     
     
     <summary type="html">.bat文件作为一种自动化工具，可以用于批量处理相同或类似的任务，从而提高效率、减轻工作负担</summary>
@@ -440,7 +444,7 @@
     <link href="https://zlblog.cf/posts/software.html"/>
     <id>https://zlblog.cf/posts/software.html</id>
     <published>2023-04-15T16:00:00.000Z</published>
-    <updated>2024-01-16T02:19:42.808Z</updated>
+    <updated>2024-02-03T07:15:30.548Z</updated>
     
     
     <summary type="html">实用软件推荐：提升工作效率、增强娱乐体验，让生活更轻松！</summary>
