@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>星河城野</title>
-  <icon>https://zl88.github.io/img/favicon.png</icon>
+  <icon>https://blog.z-l.top/img/favicon.png</icon>
   <subtitle>低调存在，无人问津，专注无用，深度浅薄。</subtitle>
-  <link href="https://zl88.github.io/rss.xml" rel="self"/>
+  <link href="https://blog.z-l.top/rss.xml" rel="self"/>
   
-  <link href="https://zl88.github.io/"/>
+  <link href="https://blog.z-l.top/"/>
   <updated>2024-02-06T14:18:06.189Z</updated>
-  <id>https://zl88.github.io/</id>
+  <id>https://blog.z-l.top/</id>
   
   <author>
     <name>小张</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Blender 操作备忘录</title>
-    <link href="https://zl88.github.io/posts/54368.html"/>
-    <id>https://zl88.github.io/posts/54368.html</id>
+    <link href="https://blog.z-l.top/posts/54368.html"/>
+    <id>https://blog.z-l.top/posts/54368.html</id>
     <published>2024-01-20T16:00:00.000Z</published>
     <updated>2024-02-06T14:18:06.189Z</updated>
     
@@ -34,19 +34,19 @@
     
     
     
-    <category term="学习" scheme="https://zl88.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.z-l.top/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="笔记" scheme="https://zl88.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://blog.z-l.top/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="Blender" scheme="https://zl88.github.io/tags/Blender/"/>
+    <category term="Blender" scheme="https://blog.z-l.top/tags/Blender/"/>
     
   </entry>
   
   <entry>
     <title>一个简单易上手的新用户引导库：Driver.js</title>
-    <link href="https://zl88.github.io/posts/3.html"/>
-    <id>https://zl88.github.io/posts/3.html</id>
+    <link href="https://blog.z-l.top/posts/3.html"/>
+    <id>https://blog.z-l.top/posts/3.html</id>
     <published>2023-12-26T15:46:48.000Z</published>
     <updated>2024-02-03T08:23:44.820Z</updated>
     
@@ -55,21 +55,21 @@
     
     
     
-    <category term="分享" scheme="https://zl88.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="前端" scheme="https://blog.z-l.top/categories/%E5%89%8D%E7%AB%AF/"/>
     
-    <category term="前端" scheme="https://zl88.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="分享" scheme="https://blog.z-l.top/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="前端" scheme="https://zl88.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="js" scheme="https://blog.z-l.top/tags/js/"/>
     
-    <category term="js" scheme="https://zl88.github.io/tags/js/"/>
+    <category term="前端" scheme="https://blog.z-l.top/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
   <entry>
     <title>免费纸模下载网站汇总</title>
-    <link href="https://zl88.github.io/posts/40172.html"/>
-    <id>https://zl88.github.io/posts/40172.html</id>
+    <link href="https://blog.z-l.top/posts/40172.html"/>
+    <id>https://blog.z-l.top/posts/40172.html</id>
     <published>2023-11-22T05:00:19.000Z</published>
     <updated>2024-02-04T06:55:48.094Z</updated>
     
@@ -78,19 +78,19 @@
     
     
     
-    <category term="纸模" scheme="https://zl88.github.io/categories/%E7%BA%B8%E6%A8%A1/"/>
+    <category term="纸模" scheme="https://blog.z-l.top/categories/%E7%BA%B8%E6%A8%A1/"/>
     
     
-    <category term="转载" scheme="https://zl88.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
+    <category term="转载" scheme="https://blog.z-l.top/tags/%E8%BD%AC%E8%BD%BD/"/>
     
-    <category term="下载" scheme="https://zl88.github.io/tags/%E4%B8%8B%E8%BD%BD/"/>
+    <category term="下载" scheme="https://blog.z-l.top/tags/%E4%B8%8B%E8%BD%BD/"/>
     
   </entry>
   
   <entry>
     <title>高效率工具 - Quicker常用动作分享</title>
-    <link href="https://zl88.github.io/posts/quicker.html"/>
-    <id>https://zl88.github.io/posts/quicker.html</id>
+    <link href="https://blog.z-l.top/posts/quicker.html"/>
+    <id>https://blog.z-l.top/posts/quicker.html</id>
     <published>2023-11-03T05:17:01.000Z</published>
     <updated>2024-02-02T09:06:43.794Z</updated>
     
@@ -100,16 +100,16 @@
     
     
     
-    <category term="quicker" scheme="https://zl88.github.io/tags/quicker/"/>
+    <category term="quicker" scheme="https://blog.z-l.top/tags/quicker/"/>
     
-    <category term="效率" scheme="https://zl88.github.io/tags/%E6%95%88%E7%8E%87/"/>
+    <category term="效率" scheme="https://blog.z-l.top/tags/%E6%95%88%E7%8E%87/"/>
     
   </entry>
   
   <entry>
     <title>周更：2024年天每日背单词计划</title>
-    <link href="https://zl88.github.io/posts/bbdc.html"/>
-    <id>https://zl88.github.io/posts/bbdc.html</id>
+    <link href="https://blog.z-l.top/posts/bbdc.html"/>
+    <id>https://blog.z-l.top/posts/bbdc.html</id>
     <published>2023-10-29T15:36:09.000Z</published>
     <updated>2024-01-20T03:02:28.000Z</updated>
     
@@ -118,19 +118,19 @@
     
     
     
-    <category term="学习" scheme="https://zl88.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.z-l.top/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="学习" scheme="https://zl88.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.z-l.top/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="打卡" scheme="https://zl88.github.io/tags/%E6%89%93%E5%8D%A1/"/>
+    <category term="打卡" scheme="https://blog.z-l.top/tags/%E6%89%93%E5%8D%A1/"/>
     
   </entry>
   
   <entry>
     <title>世界现代设计史考点挖空题</title>
-    <link href="https://zl88.github.io/posts/666.html"/>
-    <id>https://zl88.github.io/posts/666.html</id>
+    <link href="https://blog.z-l.top/posts/666.html"/>
+    <id>https://blog.z-l.top/posts/666.html</id>
     <published>2023-10-14T19:40:54.000Z</published>
     <updated>2024-02-06T10:22:38.921Z</updated>
     
@@ -139,19 +139,19 @@
     
     
     
-    <category term="学习" scheme="https://zl88.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.z-l.top/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="学习" scheme="https://zl88.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.z-l.top/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="设计史" scheme="https://zl88.github.io/tags/%E8%AE%BE%E8%AE%A1%E5%8F%B2/"/>
+    <category term="设计史" scheme="https://blog.z-l.top/tags/%E8%AE%BE%E8%AE%A1%E5%8F%B2/"/>
     
   </entry>
   
   <entry>
     <title>关于我在老家跳 “跳绳”</title>
-    <link href="https://zl88.github.io/posts/31695.html"/>
-    <id>https://zl88.github.io/posts/31695.html</id>
+    <link href="https://blog.z-l.top/posts/31695.html"/>
+    <id>https://blog.z-l.top/posts/31695.html</id>
     <published>2023-10-11T07:28:51.000Z</published>
     <updated>2023-10-26T05:26:35.000Z</updated>
     
@@ -160,19 +160,19 @@
     
     
     
-    <category term="日常" scheme="https://zl88.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="https://blog.z-l.top/categories/%E6%97%A5%E5%B8%B8/"/>
     
     
-    <category term="日常" scheme="https://zl88.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="https://blog.z-l.top/tags/%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="随记" scheme="https://zl88.github.io/tags/%E9%9A%8F%E8%AE%B0/"/>
+    <category term="随记" scheme="https://blog.z-l.top/tags/%E9%9A%8F%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>家用文字转语音</title>
-    <link href="https://zl88.github.io/posts/16765.html"/>
-    <id>https://zl88.github.io/posts/16765.html</id>
+    <link href="https://blog.z-l.top/posts/16765.html"/>
+    <id>https://blog.z-l.top/posts/16765.html</id>
     <published>2023-09-17T04:05:03.000Z</published>
     <updated>2023-10-26T05:26:49.000Z</updated>
     
@@ -190,17 +190,17 @@
     
     
     
-    <category term="日常" scheme="https://zl88.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="https://blog.z-l.top/categories/%E6%97%A5%E5%B8%B8/"/>
     
     
-    <category term="转换" scheme="https://zl88.github.io/tags/%E8%BD%AC%E6%8D%A2/"/>
+    <category term="转换" scheme="https://blog.z-l.top/tags/%E8%BD%AC%E6%8D%A2/"/>
     
   </entry>
   
   <entry>
     <title>新版 RSMB 动态模糊插件下载安装</title>
-    <link href="https://zl88.github.io/posts/14709.html"/>
-    <id>https://zl88.github.io/posts/14709.html</id>
+    <link href="https://blog.z-l.top/posts/14709.html"/>
+    <id>https://blog.z-l.top/posts/14709.html</id>
     <published>2023-09-16T14:00:10.000Z</published>
     <updated>2023-10-23T12:02:00.000Z</updated>
     
@@ -209,19 +209,19 @@
     
     
     
-    <category term="插件" scheme="https://zl88.github.io/categories/%E6%8F%92%E4%BB%B6/"/>
+    <category term="插件" scheme="https://blog.z-l.top/categories/%E6%8F%92%E4%BB%B6/"/>
     
     
-    <category term="AE" scheme="https://zl88.github.io/tags/AE/"/>
+    <category term="AE" scheme="https://blog.z-l.top/tags/AE/"/>
     
-    <category term="下载" scheme="https://zl88.github.io/tags/%E4%B8%8B%E8%BD%BD/"/>
+    <category term="下载" scheme="https://blog.z-l.top/tags/%E4%B8%8B%E8%BD%BD/"/>
     
   </entry>
   
   <entry>
     <title>twikoo评论回复邮件模板</title>
-    <link href="https://zl88.github.io/posts/14821.html"/>
-    <id>https://zl88.github.io/posts/14821.html</id>
+    <link href="https://blog.z-l.top/posts/14821.html"/>
+    <id>https://blog.z-l.top/posts/14821.html</id>
     <published>2023-07-03T12:04:38.000Z</published>
     <updated>2023-10-26T05:50:34.000Z</updated>
     
@@ -230,19 +230,19 @@
     
     
     
-    <category term="前端" scheme="https://zl88.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://blog.z-l.top/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="hexo" scheme="https://zl88.github.io/tags/hexo/"/>
+    <category term="前端" scheme="https://blog.z-l.top/tags/%E5%89%8D%E7%AB%AF/"/>
     
-    <category term="前端" scheme="https://zl88.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="hexo" scheme="https://blog.z-l.top/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>博客侧边栏添加不背单词仪表盘</title>
-    <link href="https://zl88.github.io/posts/9021.html"/>
-    <id>https://zl88.github.io/posts/9021.html</id>
+    <link href="https://blog.z-l.top/posts/9021.html"/>
+    <id>https://blog.z-l.top/posts/9021.html</id>
     <published>2023-07-02T04:33:03.000Z</published>
     <updated>2023-10-26T05:25:46.000Z</updated>
     
@@ -251,19 +251,19 @@
     
     
     
-    <category term="hexo" scheme="https://zl88.github.io/categories/hexo/"/>
+    <category term="hexo" scheme="https://blog.z-l.top/categories/hexo/"/>
     
     
-    <category term="hexo" scheme="https://zl88.github.io/tags/hexo/"/>
+    <category term="hexo" scheme="https://blog.z-l.top/tags/hexo/"/>
     
-    <category term="butterfly" scheme="https://zl88.github.io/tags/butterfly/"/>
+    <category term="butterfly" scheme="https://blog.z-l.top/tags/butterfly/"/>
     
   </entry>
   
   <entry>
     <title>Stable Diffusion 超级符号延展设计</title>
-    <link href="https://zl88.github.io/posts/406391.html"/>
-    <id>https://zl88.github.io/posts/406391.html</id>
+    <link href="https://blog.z-l.top/posts/406391.html"/>
+    <id>https://blog.z-l.top/posts/406391.html</id>
     <published>2023-06-28T08:22:34.000Z</published>
     <updated>2023-10-26T05:48:40.000Z</updated>
     
@@ -272,19 +272,19 @@
     
     
     
-    <category term="SD" scheme="https://zl88.github.io/categories/SD/"/>
+    <category term="SD" scheme="https://blog.z-l.top/categories/SD/"/>
     
     
-    <category term="AI" scheme="https://zl88.github.io/tags/AI/"/>
+    <category term="AI" scheme="https://blog.z-l.top/tags/AI/"/>
     
-    <category term="SD" scheme="https://zl88.github.io/tags/SD/"/>
+    <category term="SD" scheme="https://blog.z-l.top/tags/SD/"/>
     
   </entry>
   
   <entry>
     <title>hexo 图片圆角处理</title>
-    <link href="https://zl88.github.io/posts/46337.html"/>
-    <id>https://zl88.github.io/posts/46337.html</id>
+    <link href="https://blog.z-l.top/posts/46337.html"/>
+    <id>https://blog.z-l.top/posts/46337.html</id>
     <published>2023-06-28T08:18:05.000Z</published>
     <updated>2023-10-26T05:23:36.000Z</updated>
     
@@ -302,19 +302,19 @@
     
     
     
-    <category term="分享" scheme="https://zl88.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://blog.z-l.top/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="hexo" scheme="https://zl88.github.io/tags/hexo/"/>
+    <category term="hexo" scheme="https://blog.z-l.top/tags/hexo/"/>
     
-    <category term="butterfly" scheme="https://zl88.github.io/tags/butterfly/"/>
+    <category term="butterfly" scheme="https://blog.z-l.top/tags/butterfly/"/>
     
   </entry>
   
   <entry>
     <title>在线度盘解析</title>
-    <link href="https://zl88.github.io/posts/3185.html"/>
-    <id>https://zl88.github.io/posts/3185.html</id>
+    <link href="https://blog.z-l.top/posts/3185.html"/>
+    <id>https://blog.z-l.top/posts/3185.html</id>
     <published>2023-06-23T16:00:00.000Z</published>
     <updated>2023-10-26T05:30:54.000Z</updated>
     
@@ -323,17 +323,17 @@
     
     
     
-    <category term="分享" scheme="https://zl88.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://blog.z-l.top/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="解析" scheme="https://zl88.github.io/tags/%E8%A7%A3%E6%9E%90/"/>
+    <category term="解析" scheme="https://blog.z-l.top/tags/%E8%A7%A3%E6%9E%90/"/>
     
   </entry>
   
   <entry>
     <title>室友小白分享的壁纸</title>
-    <link href="https://zl88.github.io/posts/34228.html"/>
-    <id>https://zl88.github.io/posts/34228.html</id>
+    <link href="https://blog.z-l.top/posts/34228.html"/>
+    <id>https://blog.z-l.top/posts/34228.html</id>
     <published>2023-06-23T16:00:00.000Z</published>
     <updated>2023-10-26T05:28:25.000Z</updated>
     
@@ -348,17 +348,17 @@
     
     
     
-    <category term="日常" scheme="https://zl88.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="https://blog.z-l.top/categories/%E6%97%A5%E5%B8%B8/"/>
     
     
-    <category term="壁纸" scheme="https://zl88.github.io/tags/%E5%A3%81%E7%BA%B8/"/>
+    <category term="壁纸" scheme="https://blog.z-l.top/tags/%E5%A3%81%E7%BA%B8/"/>
     
   </entry>
   
   <entry>
     <title>PS beta版国内使用扩图功能</title>
-    <link href="https://zl88.github.io/posts/PS-beat.html"/>
-    <id>https://zl88.github.io/posts/PS-beat.html</id>
+    <link href="https://blog.z-l.top/posts/PS-beat.html"/>
+    <id>https://blog.z-l.top/posts/PS-beat.html</id>
     <published>2023-06-16T16:00:00.000Z</published>
     <updated>2023-11-16T12:56:02.000Z</updated>
     
@@ -367,19 +367,19 @@
     
     
     
-    <category term="分享" scheme="https://zl88.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://blog.z-l.top/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="AI" scheme="https://zl88.github.io/tags/AI/"/>
+    <category term="AI" scheme="https://blog.z-l.top/tags/AI/"/>
     
-    <category term="ps" scheme="https://zl88.github.io/tags/ps/"/>
+    <category term="ps" scheme="https://blog.z-l.top/tags/ps/"/>
     
   </entry>
   
   <entry>
     <title>Adobe After Effects 操作备忘录</title>
-    <link href="https://zl88.github.io/posts/2460.html"/>
-    <id>https://zl88.github.io/posts/2460.html</id>
+    <link href="https://blog.z-l.top/posts/2460.html"/>
+    <id>https://blog.z-l.top/posts/2460.html</id>
     <published>2023-05-25T13:36:19.000Z</published>
     <updated>2024-02-06T14:17:47.722Z</updated>
     
@@ -394,19 +394,19 @@
     
     
     
-    <category term="学习" scheme="https://zl88.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://blog.z-l.top/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="AE" scheme="https://zl88.github.io/tags/AE/"/>
+    <category term="AE" scheme="https://blog.z-l.top/tags/AE/"/>
     
-    <category term="笔记" scheme="https://zl88.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    <category term="笔记" scheme="https://blog.z-l.top/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>老友有声—中老年有声书功能UX体验设计</title>
-    <link href="https://zl88.github.io/posts/1235.html"/>
-    <id>https://zl88.github.io/posts/1235.html</id>
+    <link href="https://blog.z-l.top/posts/1235.html"/>
+    <id>https://blog.z-l.top/posts/1235.html</id>
     <published>2023-05-19T16:00:00.000Z</published>
     <updated>2023-11-12T11:57:32.000Z</updated>
     
@@ -416,14 +416,14 @@
     
     
     
-    <category term="UX" scheme="https://zl88.github.io/tags/UX/"/>
+    <category term="UX" scheme="https://blog.z-l.top/tags/UX/"/>
     
   </entry>
   
   <entry>
     <title>bat批量处理，解放双手</title>
-    <link href="https://zl88.github.io/posts/200425.html"/>
-    <id>https://zl88.github.io/posts/200425.html</id>
+    <link href="https://blog.z-l.top/posts/200425.html"/>
+    <id>https://blog.z-l.top/posts/200425.html</id>
     <published>2023-05-07T16:00:00.000Z</published>
     <updated>2023-10-26T05:49:03.000Z</updated>
     
@@ -432,17 +432,17 @@
     
     
     
-    <category term="分享" scheme="https://zl88.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://blog.z-l.top/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="bat" scheme="https://zl88.github.io/tags/bat/"/>
+    <category term="bat" scheme="https://blog.z-l.top/tags/bat/"/>
     
   </entry>
   
   <entry>
     <title>精选实用电脑及手机等的软件分享</title>
-    <link href="https://zl88.github.io/posts/software.html"/>
-    <id>https://zl88.github.io/posts/software.html</id>
+    <link href="https://blog.z-l.top/posts/software.html"/>
+    <id>https://blog.z-l.top/posts/software.html</id>
     <published>2023-04-15T16:00:00.000Z</published>
     <updated>2024-02-03T07:15:30.548Z</updated>
     
@@ -451,14 +451,14 @@
     
     
     
-    <category term="分享" scheme="https://zl88.github.io/categories/%E5%88%86%E4%BA%AB/"/>
+    <category term="分享" scheme="https://blog.z-l.top/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="电脑" scheme="https://zl88.github.io/tags/%E7%94%B5%E8%84%91/"/>
+    <category term="电脑" scheme="https://blog.z-l.top/tags/%E7%94%B5%E8%84%91/"/>
     
-    <category term="软件" scheme="https://zl88.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
+    <category term="软件" scheme="https://blog.z-l.top/tags/%E8%BD%AF%E4%BB%B6/"/>
     
-    <category term="手机" scheme="https://zl88.github.io/tags/%E6%89%8B%E6%9C%BA/"/>
+    <category term="手机" scheme="https://blog.z-l.top/tags/%E6%89%8B%E6%9C%BA/"/>
     
   </entry>
   
