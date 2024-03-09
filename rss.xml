@@ -139,9 +139,9 @@
     <category term="纸模" scheme="https://blog.z-l.top/categories/%E7%BA%B8%E6%A8%A1/"/>
     
     
-    <category term="转载" scheme="https://blog.z-l.top/tags/%E8%BD%AC%E8%BD%BD/"/>
-    
     <category term="下载" scheme="https://blog.z-l.top/tags/%E4%B8%8B%E8%BD%BD/"/>
+    
+    <category term="转载" scheme="https://blog.z-l.top/tags/%E8%BD%AC%E8%BD%BD/"/>
     
   </entry>
   
@@ -161,48 +161,6 @@
     <category term="quicker" scheme="https://blog.z-l.top/tags/quicker/"/>
     
     <category term="效率" scheme="https://blog.z-l.top/tags/%E6%95%88%E7%8E%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>周更：2024年天每日背单词计划</title>
-    <link href="https://blog.z-l.top/posts/bbdc.html"/>
-    <id>https://blog.z-l.top/posts/bbdc.html</id>
-    <published>2023-10-29T15:36:09.000Z</published>
-    <updated>2024-01-20T03:02:28.000Z</updated>
-    
-    
-    <summary type="html">尽管考试已经过去，但英语总会用到, 所以继续每天学一点点，每日跟练新概念2,养成一个好习惯，加油~</summary>
-    
-    
-    
-    <category term="学习" scheme="https://blog.z-l.top/categories/%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="学习" scheme="https://blog.z-l.top/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
-    <category term="打卡" scheme="https://blog.z-l.top/tags/%E6%89%93%E5%8D%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>世界现代设计史考点挖空题</title>
-    <link href="https://blog.z-l.top/posts/666.html"/>
-    <id>https://blog.z-l.top/posts/666.html</id>
-    <published>2023-10-14T19:40:54.000Z</published>
-    <updated>2024-02-06T10:22:38.000Z</updated>
-    
-    
-    <summary type="html">世界现代设计史王守之著（中国青年第二版）知识点精讲精练核心笔记 考点综合挖空题</summary>
-    
-    
-    
-    <category term="学习" scheme="https://blog.z-l.top/categories/%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="学习" scheme="https://blog.z-l.top/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
-    <category term="设计史" scheme="https://blog.z-l.top/tags/%E8%AE%BE%E8%AE%A1%E5%8F%B2/"/>
     
   </entry>
   
@@ -475,6 +433,48 @@
     
     
     <category term="UX" scheme="https://blog.z-l.top/tags/UX/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>bat批量处理，解放双手</title>
+    <link href="https://blog.z-l.top/posts/200425.html"/>
+    <id>https://blog.z-l.top/posts/200425.html</id>
+    <published>2023-05-07T16:00:00.000Z</published>
+    <updated>2023-10-26T05:49:03.000Z</updated>
+    
+    
+    <summary type="html">.bat文件作为一种自动化工具，可以用于批量处理相同或类似的任务，从而提高效率、减轻工作负担</summary>
+    
+    
+    
+    <category term="分享" scheme="https://blog.z-l.top/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="bat" scheme="https://blog.z-l.top/tags/bat/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>精选实用电脑及手机等的软件分享</title>
+    <link href="https://blog.z-l.top/posts/software.html"/>
+    <id>https://blog.z-l.top/posts/software.html</id>
+    <published>2023-04-15T16:00:00.000Z</published>
+    <updated>2024-02-03T07:15:30.000Z</updated>
+    
+    
+    <summary type="html">实用软件推荐：提升工作效率、增强娱乐体验，让生活更轻松！</summary>
+    
+    
+    
+    <category term="分享" scheme="https://blog.z-l.top/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="电脑" scheme="https://blog.z-l.top/tags/%E7%94%B5%E8%84%91/"/>
+    
+    <category term="软件" scheme="https://blog.z-l.top/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="手机" scheme="https://blog.z-l.top/tags/%E6%89%8B%E6%9C%BA/"/>
     
   </entry>
   
