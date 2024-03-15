@@ -103,9 +103,9 @@
       
         <tags>
             
-            <tag> js </tag>
-            
             <tag> 前端 </tag>
+            
+            <tag> js </tag>
             
         </tags>
       
@@ -257,9 +257,9 @@
       
         <tags>
             
-            <tag> 前端 </tag>
-            
             <tag> hexo </tag>
+            
+            <tag> 前端 </tag>
             
         </tags>
       
@@ -983,9 +983,9 @@
       
         <tags>
             
-            <tag> css </tag>
-            
             <tag> js </tag>
+            
+            <tag> css </tag>
             
         </tags>
       
@@ -1129,7 +1129,7 @@
       <link href="/posts/62318.html"/>
       <url>/posts/62318.html</url>
       
-        <content type="html"><![CDATA[<blockquote><p>防止自己忘记的一些C4D的使用操作</p></blockquote><details class="folding-tag" closed><summary> C4D快捷键 </summary>              <div class='content'>              <div class="table-container"><table><thead><tr><th style="text-align:left">快捷键</th><th>描述</th></tr></thead><tbody><tr><td style="text-align:left">nb</td><td>光影着色线条</td></tr><tr><td style="text-align:left">鼠标中间</td><td>视图</td></tr><tr><td style="text-align:left">滚轮前后滚</td><td>放大缩小视图</td></tr><tr><td style="text-align:left">R</td><td>旋转<br />按住Shif可以按照一定度数旋转</td></tr><tr><td style="text-align:left">T</td><td>缩放<br /></td></tr><tr><td style="text-align:left">ctrl+shift+z</td><td>视图回正</td></tr></tbody></table></div><div class="table-container"><table><thead><tr><th style="text-align:left">CTRL +</th><th>描述</th></tr></thead><tbody><tr><td style="text-align:left">Ctrl+F4</td><td>关闭当前文件</td></tr></tbody></table></div><div class="table-container"><table><thead><tr><th style="text-align:left">ALT +</th><th>描述</th></tr></thead><tbody><tr><td style="text-align:left">Alt+G</td><td>编组</td></tr><tr><td style="text-align:left">Alt+鼠标左键</td><td>移动视角</td></tr></tbody></table></div>              </div>            </details><h3 id="渲染视图里面的区域渲染"><a href="#渲染视图里面的区域渲染" class="headerlink" title="渲染视图里面的区域渲染"></a>渲染视图里面的区域渲染</h3><details class="folding-tag" closed><summary> 点我展开 </summary>              <div class='content'>              <p><img src="https://api.onedrive.com/v1.0/shares/s!Aqm8bsHMdZ72gTiF-xk41YILShgt/root/content" alt=""></p><p>操作步骤：</p><ol><li>长按渲染到图片查看器</li></ol><p><img src="https://gcore.jsdelivr.net/gh/xiaolongmr/image/blog/image-20211104113617667.png" alt=""></p><ol><li>选择交互式区域渲染，即可在每次渲染时只渲染局部</li></ol><p><img src="https://gcore.jsdelivr.net/gh/xiaolongmr/image/blog/image-20211104113704357.png" alt=""></p>              </div>            </details><h3 id="背景视图网格"><a href="#背景视图网格" class="headerlink" title="背景视图网格"></a>背景视图网格</h3><details class="folding-tag" closed><summary> 点我展开 </summary>              <div class='content'>              <p>操作步骤：<br>依次点击 过滤 - 网格<br><img src="https://gcore.jsdelivr.net/gh/xiaolongmr/image/blog/image-20211104120559042.png" alt=""></p>              </div>            </details><h3 id="C4D很卡怎么办？一招彻底解决C4D卡死问题！"><a href="#C4D很卡怎么办？一招彻底解决C4D卡死问题！" class="headerlink" title="C4D很卡怎么办？一招彻底解决C4D卡死问题！"></a>C4D很卡怎么办？一招彻底解决C4D卡死问题！</h3><details class="folding-tag" closed><summary> 点我展开 </summary>              <div class='content'>              <p>如果你的C4D之前操作流畅，现在动不动就卡死的话，通过以下方法大概率就能解决这个问题！</p><p>1）点击桌面右下侧的输入法图标，选择语言首选项</p><p>2）语言→点击中文→选项</p><p>3）点击微软拼音→选项</p><p>4）选择常规</p><p>5）往下拖，找到兼容性，把按钮打开就行了</p><p> 作者：暴富暴富暴富富 <a href="https://www.bilibili.com/read/cv25994697/">https://www.bilibili.com/read/cv25994697/</a> 出处：bilibili</p>              </div>            </details><h3 id="取消快速启动对话框"><a href="#取消快速启动对话框" class="headerlink" title="取消快速启动对话框"></a>取消快速启动对话框</h3><details class="folding-tag" closed><summary> 点我展开 </summary>              <div class='content'>              <ol><li>点击C4D顶部的 “编辑” 菜单</li><li>点击 “设置”</li><li>点击 “通讯”</li><li>取消勾选 “启动时显示快速启动对话框”</li></ol>              </div>            </details>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>防止自己忘记的一些C4D的使用操作</p></blockquote><details class="folding-tag" closed><summary> C4D快捷键 </summary>              <div class='content'>              <div class="table-container"><table><thead><tr><th style="text-align:left">快捷键</th><th>描述</th></tr></thead><tbody><tr><td style="text-align:left">nb</td><td>光影着色线条</td></tr><tr><td style="text-align:left">鼠标中间</td><td>视图</td></tr><tr><td style="text-align:left">滚轮前后滚</td><td>放大缩小视图</td></tr><tr><td style="text-align:left">R</td><td>旋转<br />按住Shif可以按照一定度数旋转</td></tr><tr><td style="text-align:left">T</td><td>缩放<br /></td></tr><tr><td style="text-align:left">ctrl+shift+z</td><td>视图回正</td></tr></tbody></table></div><div class="table-container"><table><thead><tr><th style="text-align:left">CTRL +</th><th>描述</th></tr></thead><tbody><tr><td style="text-align:left">Ctrl+F4</td><td>关闭当前文件</td></tr><tr><td style="text-align:left">Ctrl+左键拖拽</td><td>选中点、线、面后使用该键可以拖拽出新的</td></tr></tbody></table></div><div class="table-container"><table><thead><tr><th style="text-align:left">ALT +</th><th>描述</th></tr></thead><tbody><tr><td style="text-align:left">Alt+G</td><td>编组</td></tr><tr><td style="text-align:left">Alt+鼠标左键</td><td>移动视角</td></tr></tbody></table></div>              </div>            </details><h3 id="渲染视图里面的区域渲染"><a href="#渲染视图里面的区域渲染" class="headerlink" title="渲染视图里面的区域渲染"></a>渲染视图里面的区域渲染</h3><details class="folding-tag" closed><summary> 点我展开 </summary>              <div class='content'>              <p><img src="https://api.onedrive.com/v1.0/shares/s!Aqm8bsHMdZ72gTiF-xk41YILShgt/root/content" alt=""></p><p>操作步骤：</p><ol><li>长按渲染到图片查看器</li></ol><p><img src="https://gcore.jsdelivr.net/gh/xiaolongmr/image/blog/image-20211104113617667.png" alt=""></p><ol><li>选择交互式区域渲染，即可在每次渲染时只渲染局部</li></ol><p><img src="https://gcore.jsdelivr.net/gh/xiaolongmr/image/blog/image-20211104113704357.png" alt=""></p>              </div>            </details><h3 id="背景视图网格"><a href="#背景视图网格" class="headerlink" title="背景视图网格"></a>背景视图网格</h3><details class="folding-tag" closed><summary> 点我展开 </summary>              <div class='content'>              <p>操作步骤：<br>依次点击 过滤 - 网格<br><img src="https://gcore.jsdelivr.net/gh/xiaolongmr/image/blog/image-20211104120559042.png" alt=""></p>              </div>            </details><h3 id="C4D很卡怎么办？一招彻底解决C4D卡死问题！"><a href="#C4D很卡怎么办？一招彻底解决C4D卡死问题！" class="headerlink" title="C4D很卡怎么办？一招彻底解决C4D卡死问题！"></a>C4D很卡怎么办？一招彻底解决C4D卡死问题！</h3><details class="folding-tag" closed><summary> 点我展开 </summary>              <div class='content'>              <p>如果你的C4D之前操作流畅，现在动不动就卡死的话，通过以下方法大概率就能解决这个问题！</p><p>1）点击桌面右下侧的输入法图标，选择语言首选项</p><p>2）语言→点击中文→选项</p><p>3）点击微软拼音→选项</p><p>4）选择常规</p><p>5）往下拖，找到兼容性，把按钮打开就行了</p><p> 作者：暴富暴富暴富富 <a href="https://www.bilibili.com/read/cv25994697/">https://www.bilibili.com/read/cv25994697/</a> 出处：bilibili</p>              </div>            </details><h3 id="取消快速启动对话框"><a href="#取消快速启动对话框" class="headerlink" title="取消快速启动对话框"></a>取消快速启动对话框</h3><details class="folding-tag" closed><summary> 点我展开 </summary>              <div class='content'>              <ol><li>点击C4D顶部的 “编辑” 菜单</li><li>点击 “设置”</li><li>点击 “通讯”</li><li>取消勾选 “启动时显示快速启动对话框”</li></ol>              </div>            </details>]]></content>
       
       
       <categories>

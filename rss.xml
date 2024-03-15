@@ -118,9 +118,9 @@
     <category term="前端" scheme="https://blog.z-l.top/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="js" scheme="https://blog.z-l.top/tags/js/"/>
-    
     <category term="前端" scheme="https://blog.z-l.top/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="js" scheme="https://blog.z-l.top/tags/js/"/>
     
   </entry>
   
@@ -249,9 +249,9 @@
     <category term="前端" scheme="https://blog.z-l.top/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="前端" scheme="https://blog.z-l.top/tags/%E5%89%8D%E7%AB%AF/"/>
-    
     <category term="hexo" scheme="https://blog.z-l.top/tags/hexo/"/>
+    
+    <category term="前端" scheme="https://blog.z-l.top/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
