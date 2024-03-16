@@ -39,9 +39,9 @@
     <category term="分享" scheme="https://blog.z-l.top/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="下载" scheme="https://blog.z-l.top/tags/%E4%B8%8B%E8%BD%BD/"/>
-    
     <category term="解析" scheme="https://blog.z-l.top/tags/%E8%A7%A3%E6%9E%90/"/>
+    
+    <category term="下载" scheme="https://blog.z-l.top/tags/%E4%B8%8B%E8%BD%BD/"/>
     
     <category term="音乐" scheme="https://blog.z-l.top/tags/%E9%9F%B3%E4%B9%90/"/>
     
@@ -75,18 +75,21 @@
   </entry>
   
   <entry>
-    <title>Blender 操作备忘录</title>
+    <title>Blender 学习备忘录</title>
     <link href="https://blog.z-l.top/posts/54368.html"/>
     <id>https://blog.z-l.top/posts/54368.html</id>
     <published>2024-01-20T16:00:00.000Z</published>
-    <updated>2024-02-06T14:18:06.000Z</updated>
+    <updated>2024-03-16T16:20:09.819Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;Blender-中的快捷键&quot;&gt;&lt;a href=&quot;#Blender-中的快捷键&quot; class=&quot;headerlink&quot; title=&quot;Blender 中的快捷键&quot;&gt;&lt;/a&gt;Blender 中的快捷键&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;F12&lt;/strong&gt;</summary>
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;&lt;i class=&quot;fa-regular fa-blender&quot;&gt;&lt;/i&gt;   这里是存放我在学习 blender 途中的知识点，方便日后忘记查询~&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Blender4.0和3.6材质节点的区别 –</summary>
         
       
     
