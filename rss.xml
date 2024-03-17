@@ -52,16 +52,14 @@
     <link href="https://blog.z-l.top/posts/4114.html"/>
     <id>https://blog.z-l.top/posts/4114.html</id>
     <published>2024-01-29T03:14:36.000Z</published>
-    <updated>2024-03-17T12:19:46.715Z</updated>
+    <updated>2024-03-17T12:55:39.468Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;看B站视频的时候UP主会总结知识点，有时候开着弹幕截图的话会挡住视频内容，所以制作了一款油猴脚本。&lt;br&gt;该脚本使用ChatGPT制作，调用的是浏览器自带的截图功能，在保证画质最清晰的同时可以防止弹幕的遮挡，同时还可以为截图添加圆角。&lt;/p&gt;
-&lt;/</summary>
+    <summary type="html">&lt;div class=&quot;note info</summary>
         
       
     
@@ -121,9 +119,9 @@
     <category term="前端" scheme="https://blog.z-l.top/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="js" scheme="https://blog.z-l.top/tags/js/"/>
-    
     <category term="前端" scheme="https://blog.z-l.top/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="js" scheme="https://blog.z-l.top/tags/js/"/>
     
   </entry>
   
@@ -252,9 +250,9 @@
     <category term="前端" scheme="https://blog.z-l.top/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="前端" scheme="https://blog.z-l.top/tags/%E5%89%8D%E7%AB%AF/"/>
-    
     <category term="hexo" scheme="https://blog.z-l.top/tags/hexo/"/>
+    
+    <category term="前端" scheme="https://blog.z-l.top/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   

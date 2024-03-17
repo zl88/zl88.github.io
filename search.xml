@@ -37,7 +37,7 @@
       <link href="/posts/4114.html"/>
       <url>/posts/4114.html</url>
       
-        <content type="html"><![CDATA[<blockquote><p>看B站视频的时候UP主会总结知识点，有时候开着弹幕截图的话会挡住视频内容，所以制作了一款油猴脚本。<br>该脚本使用ChatGPT制作，调用的是浏览器自带的截图功能，在保证画质最清晰的同时可以防止弹幕的遮挡，同时还可以为截图添加圆角。</p></blockquote><h3 id="脚本地址："><a href="#脚本地址：" class="headerlink" title="脚本地址："></a>脚本地址：</h3><p><a href="https://greasyfork.org/zh-CN/scripts/483708-B站视频截图">https://greasyfork.org/zh-CN/scripts/483708-B站视频截图</a></p><p>安装该脚本的前提是你已经安装了油猴扩展，如果没有可以 <a href="50931.html">点我</a> 查看教程</p><h3 id="使用方法："><a href="#使用方法：" class="headerlink" title="使用方法："></a>使用方法：</h3><p>点击左上角按钮或者使用快捷键 <strong>S</strong> 就可以唤出截图面板<br>图片命名方式为：【视频标题_当前视频播放位置时间.png】</p><blockquote><p>这样命名的好处是以后看到该截图时候，可以快速找到教程地址以及截图的那个时间点。</p></blockquote><p><img src="https://cdn.h5ds.com/space/files/600972551685382144/20240229/687499976407093248.jpg" alt=""></p>]]></content>
+        <content type="html"><![CDATA[<div class="note info modern"><p>看B站视频的时候UP主会总结知识点，有时候开着弹幕截图的话会挡住视频内容，还有过一段时间忘记知识点想去再看一遍视频，却发现这个截图忘记在哪截的，看历史记录又太麻烦，所以该脚本诞生了。</p></div><p>该脚本使用ChatGPT制作，调用的是浏览器自带的截图功能，在保证画质最清晰的同时可以防止弹幕的遮挡，同时还可以为截图添加圆角，这个圆角纯属个人强迫症相加🤣。</p><h3 id="脚本安装地址："><a href="#脚本安装地址：" class="headerlink" title="脚本安装地址："></a>脚本安装地址：</h3><p><a href="https://greasyfork.org/zh-CN/scripts/483708-B站视频截图">https://greasyfork.org/zh-CN/scripts/483708-B站视频截图</a></p><p>安装该脚本的前提是你已经安装了油猴扩展(Tampermonkey)，如果没有可以 <a href="50931.html">点我</a> 去安装</p><h3 id="使用方法："><a href="#使用方法：" class="headerlink" title="使用方法："></a>使用方法：</h3><p>安装后B站左上角会出现一个按钮，在观看视频时点击左上角按钮或者使用快捷键<kbd><strong>S</strong> </kbd>就可以唤出截图面板。</p><p>图片命名格式为：视频标题_当前视频播放位置时间.png </p><blockquote><p>这样命名的好处是以后看到该截图时候，可以快速找到教程地址以及截图的那个时间点。</p></blockquote><p>例如：【官方 MV】Never Gonna Give You Up - Rick Astley_00m54s.png  就是这个 <a href="https://www.bilibili.com/video/BV1GJ411x7h7?t=54"> 视频 </a> 的第54秒</p><p class="post_p_img" style="margin: 0 auto!important;" ><img src="https://cdn.h5ds.com/space/files/600972551685382144/20240229/687499976407093248.jpg" alt="一个示例截图，和上方示例无关" /></p><h3 id="一个B站主题"><a href="#一个B站主题" class="headerlink" title="一个B站主题"></a>一个B站主题</h3><p>最后放一个我做的B站界面简化主题。具体效果和下面截图稍有差别。<br>这个主题主要去除了B站一些不常用的功能和大部分广告。</p><p>安装地址：<a href="https://userstyles.world/style/3920/b">https://userstyles.world/style/3920/b</a></p><p><img src="https://cdn.h5ds.com/space/files/600972551685382144/20240317/693797396300546048.png" alt=""></p>]]></content>
       
       
       <categories>
@@ -103,9 +103,9 @@
       
         <tags>
             
-            <tag> js </tag>
-            
             <tag> 前端 </tag>
+            
+            <tag> js </tag>
             
         </tags>
       
@@ -257,9 +257,9 @@
       
         <tags>
             
-            <tag> 前端 </tag>
-            
             <tag> hexo </tag>
+            
+            <tag> 前端 </tag>
             
         </tags>
       
