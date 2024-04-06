@@ -8,7 +8,7 @@
       <link href="/posts/InsightFace.html"/>
       <url>/posts/InsightFace.html</url>
       
-        <content type="html"><![CDATA[<p class="post_p_img" style="margin: 0 auto!important;" ><img src="https://3o.hk/images/2024/03/30/img0-09fbc21c-5fe6-469b-a908-1f1a6e3ca935.jpg" alt="换脸前后对比" /></p><p>图片来自：unsplash.com</p><div class="tabs" id="方法"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#方法-1">InsightFaceh</button></li><li class="tab"><button type="button" data-href="#方法-2">comfyui工作流</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="方法-1"><h2 id="InsightFaceh"><a href="#InsightFaceh" class="headerlink" title="InsightFaceh"></a>InsightFaceh</h2><h3 id="添加换脸机器人"><a href="#添加换脸机器人" class="headerlink" title="添加换脸机器人"></a>添加换脸机器人</h3><p>1、登录discord，创建自己的服务器。</p><p><img src="https://3o.hk/images/2024/03/30/tmp4B71.png" alt=""></p><p>2、添加添加换脸机器人</p><p>点击下方复制按钮复制链接，并在对话框中发送, 发送后点击此链接,邀请换脸机器人到刚才创建的服务器</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://discord.com/api/oauth2/authorize?client_id=1090660574196674713&amp;permissions=274877945856&amp;scope=bot</span><br></pre></td></tr></table></figure><p><img src="https://cdn.h5ds.com/space/files/600972551685382144/20240330/698526478341660672.png" alt="添加换脸机器人到服务器"></p><h3 id="使用流程"><a href="#使用流程" class="headerlink" title="使用流程"></a>使用流程</h3><blockquote><p>建议上传脸部模型时候选择正面高清无遮挡的照片， 下面选用的被换脸的照片是眯着眼的看着换脸效果不太明显.</p></blockquote><p>1、首先使用下面命令让机器人生成脸部模型</p><p>/saveid </p><p><img src="https://3o.hk/images/2024/03/30/1-1.jpg" alt=""></p><p>2、idname 后输入这个脸部模型的自定义名称，这里使用：aaa</p><p><img src="https://3o.hk/images/2024/03/30/1-2.jpg" alt=""></p><p>3、回车发送，可以看到已经创建了id 为aaa 的脸部模型</p><p><img src="https://3o.hk/images/2024/03/30/1-3.jpg" alt=""></p><p>4、使用/swapid 并选择现有脸部模型id，并上传需要被换脸的照片，然后回车发送</p><p><img src="https://3o.hk/images/2024/03/30/1-4.jpg" alt=""></p><p>5、可以发现已经把刚才的照片换上了aaa模型的脸</p><p><img src="https://3o.hk/images/2024/03/30/1-5.jpg" alt=""></p><h3 id="对比效果展示"><a href="#对比效果展示" class="headerlink" title="对比效果展示"></a>对比效果展示</h3><p><img src="https://3o.hk/images/2024/03/30/8dc45641be16c9ca5ccd9237d52d2351.jpg" alt=""><br><img src="https://3o.hk/images/2024/03/30/tmp8525.jpg" alt=""></p><h3 id="InsightFace命令含义"><a href="#InsightFace命令含义" class="headerlink" title="InsightFace命令含义"></a>InsightFace命令含义</h3><div class="table-container"><table><thead><tr><th>命令</th><th>含义</th></tr></thead><tbody><tr><td>/saveid name upload-image</td><td>用于上传脸部模型，并定义id名称</td></tr><tr><td>/setid name(s)</td><td>设定默认脸部模型id，用于在右键面板直接生成</td></tr><tr><td>/listid</td><td>列出所有注册的ID名称</td></tr><tr><td>/delid name</td><td>删除特定ID名称</td></tr><tr><td>/delall</td><td>删除所有ID</td></tr><tr><td>/swapid name(s) upload-image</td><td>对上传的照片进行ID替换，使用指定的ID名称(或名称列表).</td></tr></tbody></table></div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="方法-2"><h2 id="comfyui工作流"><a href="#comfyui工作流" class="headerlink" title="comfyui工作流"></a>comfyui工作流</h2><p>推荐使用 <a href="https://www.esheep.com">https://www.esheep.com</a> 这个网站创建好的工作流，很省事，现在网站还在内测，每天可以免费生成100次。</p><p>手机号登录一下然后使用下面的一键换脸既可以了，操作很简单。</p><p>一键换脸：<a href="https://www.esheep.com/app/1617?form=run_app&amp;utm_source=app_tab">https://www.esheep.com/app/1617?form=run_app&amp;utm_source=app_tab</a></p><p><img src="https://cdn.h5ds.com/space/files/600972551685382144/20240404/700326571079503872.jpg" alt="点击一件运行"></p><p>点击运行后分别添加需要换脸的目标图片和人脸，再点击立即生成稍等片刻即可生成换脸图。</p><p><img src="https://cdn.h5ds.com/space/files/600972551685382144/20240404/700326892272541696.jpg" alt=""></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>]]></content>
+        <content type="html"><![CDATA[<p class="post_p_img" style="margin: 0 auto!important;" ><img src="https://3o.hk/images/2024/03/30/img0-09fbc21c-5fe6-469b-a908-1f1a6e3ca935.jpg" alt="换脸前后对比" /></p><p>图片来自：unsplash.com</p><div class="tabs" id="方法"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#方法-1">InsightFaceh</button></li><li class="tab"><button type="button" data-href="#方法-2">comfyui工作流</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="方法-1"><h2 id="InsightFaceh"><a href="#InsightFaceh" class="headerlink" title="InsightFaceh"></a>InsightFaceh</h2><h3 id="添加换脸机器人"><a href="#添加换脸机器人" class="headerlink" title="添加换脸机器人"></a>添加换脸机器人</h3><p>1、登录discord，创建自己的服务器。</p><p><img src="https://3o.hk/images/2024/03/30/tmp4B71.png" alt=""></p><p>2、添加添加换脸机器人</p><p>点击下方复制按钮复制链接，并在对话框中发送, 发送后点击此链接,邀请换脸机器人到刚才创建的服务器</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://discord.com/api/oauth2/authorize?client_id=1090660574196674713&amp;permissions=274877945856&amp;scope=bot</span><br></pre></td></tr></table></figure><p><img src="https://cdn.h5ds.com/space/files/600972551685382144/20240330/698526478341660672.png" alt="添加换脸机器人到服务器"></p><h3 id="使用流程"><a href="#使用流程" class="headerlink" title="使用流程"></a>使用流程</h3><blockquote><p>建议上传脸部模型时候选择正面高清无遮挡的照片， 下面选用的被换脸的照片是眯着眼的看着换脸效果不太明显.</p></blockquote><p>1、首先使用下面命令让机器人生成脸部模型</p><p>/saveid </p><p><img src="https://3o.hk/images/2024/03/30/1-1.jpg" alt=""></p><p>2、idname 后输入这个脸部模型的自定义名称，这里使用：aaa</p><p><img src="https://3o.hk/images/2024/03/30/1-2.jpg" alt=""></p><p>3、回车发送，可以看到已经创建了id 为aaa 的脸部模型</p><p><img src="https://3o.hk/images/2024/03/30/1-3.jpg" alt=""></p><p>4、使用/swapid 并选择现有脸部模型id，并上传需要被换脸的照片，然后回车发送</p><p><img src="https://3o.hk/images/2024/03/30/1-4.jpg" alt=""></p><p>5、可以发现已经把刚才的照片换上了aaa模型的脸</p><p><img src="https://3o.hk/images/2024/03/30/1-5.jpg" alt=""></p><h3 id="对比效果展示"><a href="#对比效果展示" class="headerlink" title="对比效果展示"></a>对比效果展示</h3><p><img src="https://3o.hk/images/2024/03/30/8dc45641be16c9ca5ccd9237d52d2351.jpg" alt=""><br><img src="https://3o.hk/images/2024/03/30/tmp8525.jpg" alt=""></p><h3 id="InsightFace命令含义"><a href="#InsightFace命令含义" class="headerlink" title="InsightFace命令含义"></a>InsightFace命令含义</h3><div class="table-container"><table><thead><tr><th>命令</th><th>含义</th></tr></thead><tbody><tr><td>/saveid name upload-image</td><td>用于上传脸部模型，并定义id名称</td></tr><tr><td>/setid name(s)</td><td>设定默认脸部模型id，用于在右键面板直接生成</td></tr><tr><td>/listid</td><td>列出所有注册的ID名称</td></tr><tr><td>/delid name</td><td>删除特定ID名称</td></tr><tr><td>/delall</td><td>删除所有ID</td></tr><tr><td>/swapid name(s) upload-image</td><td>对上传的照片进行ID替换，使用指定的ID名称(或名称列表).</td></tr></tbody></table></div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="方法-2"><h2 id="comfyui工作流"><a href="#comfyui工作流" class="headerlink" title="comfyui工作流"></a>comfyui工作流</h2><p>推荐使用 <a href="https://www.esheep.com">https://www.esheep.com</a> 这个网站创建好的工作流，很省事，现在网站还在内测，每天可以免费生成100次。</p><p>手机号登录一下然后使用下面的换脸工作流一键运行就可以了，操作很简单。</p><p>朋友推荐第一个效果比较好。</p><p>【instandid 换脸】: <a href="https://www.esheep.com/app/4024?from=5&amp;utm_source=share_link">https://www.esheep.com/app/4024?from=5&amp;utm_source=share_link</a></p><p>【一键换脸】: <a href="https://www.esheep.com/app/1617?from=5&amp;utm_source=share_link">https://www.esheep.com/app/1617?from=5&amp;utm_source=share_link</a></p><p><img src="https://cdn.h5ds.com/space/files/600972551685382144/20240404/700326571079503872.jpg" alt="点击一件运行"></p><p>点击运行后分别添加需要换脸的目标图片和人脸，再点击立即生成稍等片刻即可生成换脸图。</p><p><img src="https://cdn.h5ds.com/space/files/600972551685382144/20240404/700326892272541696.jpg" alt=""></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>]]></content>
       
       
       
@@ -113,9 +113,9 @@
       
       <categories>
           
-          <category> 分享 </category>
-          
           <category> 前端 </category>
+          
+          <category> 分享 </category>
           
       </categories>
       
@@ -249,9 +249,9 @@
       
         <tags>
             
-            <tag> AE </tag>
-            
             <tag> 下载 </tag>
+            
+            <tag> AE </tag>
             
         </tags>
       
@@ -461,9 +461,9 @@
       
         <tags>
             
-            <tag> AE </tag>
-            
             <tag> 笔记 </tag>
+            
+            <tag> AE </tag>
             
         </tags>
       
@@ -748,9 +748,9 @@
       
         <tags>
             
-            <tag> iconfont </tag>
-            
             <tag> 转载 </tag>
+            
+            <tag> iconfont </tag>
             
         </tags>
       
@@ -993,18 +993,18 @@
       
       <categories>
           
-          <category> 分享 </category>
-          
           <category> 前端 </category>
+          
+          <category> 分享 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> css </tag>
-            
             <tag> js </tag>
+            
+            <tag> css </tag>
             
         </tags>
       
