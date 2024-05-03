@@ -39,9 +39,9 @@
       
         <tags>
             
-            <tag> 解析 </tag>
-            
             <tag> 下载 </tag>
+            
+            <tag> 解析 </tag>
             
             <tag> 音乐 </tag>
             
@@ -149,9 +149,9 @@
       
         <tags>
             
-            <tag> 下载 </tag>
-            
             <tag> 转载 </tag>
+            
+            <tag> 下载 </tag>
             
         </tags>
       
@@ -687,18 +687,18 @@
           
           <category> 分享 </category>
           
-          <category> 学习 </category>
-          
           <category> 免费字体 </category>
+          
+          <category> 学习 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 学习 </tag>
-            
             <tag> 免费字体 </tag>
+            
+            <tag> 学习 </tag>
             
         </tags>
       
@@ -1013,31 +1013,6 @@
     
     
     <entry>
-      <title>hexo d推送到远端失败</title>
-      <link href="/posts/12834.html"/>
-      <url>/posts/12834.html</url>
-      
-        <content type="html"><![CDATA[<p>使用<code>hexo d</code>上传博客时出现以下两种错误 ：</p><p>error: 403</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">fatal: unable to access <span class="string">&#x27;https://github.com/xxx/xxx.github.io/&#x27;</span>: The requested URL returned error: 403</span><br></pre></td></tr></table></figure><p>或者 errno 10054<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">fatal: unable to access <span class="string">&#x27;https://github.com/xxx/xxx.github.io/&#x27;</span>: OpenSSL SSL_read: Connection was reset, errno 10054</span><br></pre></td></tr></table></figure></p><p>解决办法：将<code>_config.yml</code>文件中的<code>http</code>链接修改成<code>ssh</code>的链接</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">&quot;git&quot;</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="string">git@github.com:xxx/xxx.github.io.git</span></span><br><span class="line">  <span class="attr">branch:</span> <span class="string">main</span></span><br></pre></td></tr></table></figure><p>若还出现以下错误：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">remote: error: GH007: Your push would publish a private email address.</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>将GitHub的 <code>setting</code> —&gt; <code>emails</code> —&gt; <code>Keep my email addresses private</code>勾选取消即可。</p><p>hexo d 出现 hexo help<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g -d</span><br></pre></td></tr></table></figure><br>使用这个可以解决，具体也不太清楚，反正之前不行的行了</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> hexo </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> hexo </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>备忘：hexo™</title>
       <link href="/posts/41503.html"/>
       <url>/posts/41503.html</url>
@@ -1057,6 +1032,31 @@
             <tag> hexo </tag>
             
             <tag> 备忘录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo d推送到远端失败</title>
+      <link href="/posts/12834.html"/>
+      <url>/posts/12834.html</url>
+      
+        <content type="html"><![CDATA[<p>使用<code>hexo d</code>上传博客时出现以下两种错误 ：</p><p>error: 403</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">fatal: unable to access <span class="string">&#x27;https://github.com/xxx/xxx.github.io/&#x27;</span>: The requested URL returned error: 403</span><br></pre></td></tr></table></figure><p>或者 errno 10054<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">fatal: unable to access <span class="string">&#x27;https://github.com/xxx/xxx.github.io/&#x27;</span>: OpenSSL SSL_read: Connection was reset, errno 10054</span><br></pre></td></tr></table></figure></p><p>解决办法：将<code>_config.yml</code>文件中的<code>http</code>链接修改成<code>ssh</code>的链接</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line">  <span class="attr">type:</span> <span class="string">&quot;git&quot;</span></span><br><span class="line">  <span class="attr">repo:</span> <span class="string">git@github.com:xxx/xxx.github.io.git</span></span><br><span class="line">  <span class="attr">branch:</span> <span class="string">main</span></span><br></pre></td></tr></table></figure><p>若还出现以下错误：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">remote: error: GH007: Your push would publish a private email address.</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>将GitHub的 <code>setting</code> —&gt; <code>emails</code> —&gt; <code>Keep my email addresses private</code>勾选取消即可。</p><p>hexo d 出现 hexo help<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g -d</span><br></pre></td></tr></table></figure><br>使用这个可以解决，具体也不太清楚，反正之前不行的行了</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
             
         </tags>
       
