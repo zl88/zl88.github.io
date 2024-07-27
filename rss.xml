@@ -206,9 +206,9 @@
     <category term="纸模" scheme="https://blog.z-l.top/categories/%E7%BA%B8%E6%A8%A1/"/>
     
     
-    <category term="转载" scheme="https://blog.z-l.top/tags/%E8%BD%AC%E8%BD%BD/"/>
-    
     <category term="下载" scheme="https://blog.z-l.top/tags/%E4%B8%8B%E8%BD%BD/"/>
+    
+    <category term="转载" scheme="https://blog.z-l.top/tags/%E8%BD%AC%E8%BD%BD/"/>
     
   </entry>
   
@@ -295,9 +295,9 @@
     <category term="插件" scheme="https://blog.z-l.top/categories/%E6%8F%92%E4%BB%B6/"/>
     
     
-    <category term="下载" scheme="https://blog.z-l.top/tags/%E4%B8%8B%E8%BD%BD/"/>
-    
     <category term="AE" scheme="https://blog.z-l.top/tags/AE/"/>
+    
+    <category term="下载" scheme="https://blog.z-l.top/tags/%E4%B8%8B%E8%BD%BD/"/>
     
   </entry>
   
@@ -399,7 +399,7 @@
     <link href="https://blog.z-l.top/posts/3185.html"/>
     <id>https://blog.z-l.top/posts/3185.html</id>
     <published>2023-06-23T16:00:00.000Z</published>
-    <updated>2024-03-30T13:12:31.638Z</updated>
+    <updated>2024-07-27T16:24:44.331Z</updated>
     
     
     <summary type="html">推荐使用卡片链接里的油猴脚本或使用下列佰度网盘解析站，搭配64线程下载器Motrix可以实现高速下载文件。</summary>
