@@ -185,9 +185,9 @@
     <category term="前端" scheme="https://blog.z-l.top/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="js" scheme="https://blog.z-l.top/tags/js/"/>
-    
     <category term="前端" scheme="https://blog.z-l.top/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="js" scheme="https://blog.z-l.top/tags/js/"/>
     
   </entry>
   
@@ -443,7 +443,7 @@
     <link href="https://blog.z-l.top/posts/PS-beat.html"/>
     <id>https://blog.z-l.top/posts/PS-beat.html</id>
     <published>2023-06-16T16:00:00.000Z</published>
-    <updated>2024-07-20T08:31:05.184Z</updated>
+    <updated>2024-07-28T08:58:29.882Z</updated>
     
     
     <summary type="html">由于PS打击盗版，本教程已失效。花钱买正版PS+漂亮国魔法吧,  或者尽早学Stable Diffusion来作图，但白嫖魔法有效。</summary>
