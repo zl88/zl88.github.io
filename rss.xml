@@ -6,7 +6,7 @@
   <link href="https://blog.z-l.top/rss.xml" rel="self"/>
   
   <link href="https://blog.z-l.top/"/>
-  <updated>2024-10-02T07:02:30.000Z</updated>
+  <updated>2025-09-06T16:50:52.646Z</updated>
   <id>https://blog.z-l.top/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>React学习</title>
+    <link href="https://blog.z-l.top/posts/react-lesson1.html"/>
+    <id>https://blog.z-l.top/posts/react-lesson1.html</id>
+    <published>2025-08-17T22:48:29.057Z</published>
+    <updated>2025-09-06T16:50:52.646Z</updated>
+    
+    
+    <summary type="html">这里是私人学习笔记&lt;br&gt;记录学习react网课时记录的知识</summary>
+    
+    
+    
+    <category term="前端" scheme="https://blog.z-l.top/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="react" scheme="https://blog.z-l.top/tags/react/"/>
+    
+  </entry>
   
   <entry>
     <title>9月互联网见闻周记</title>
@@ -71,7 +90,7 @@
     <link href="https://blog.z-l.top/posts/chat.html"/>
     <id>https://blog.z-l.top/posts/chat.html</id>
     <published>2024-06-29T13:24:45.000Z</published>
-    <updated>2024-07-02T13:56:50.000Z</updated>
+    <updated>2025-09-06T16:59:20.567Z</updated>
     
     
       
@@ -230,9 +249,9 @@
     
     
     
-    <category term="前端" scheme="https://blog.z-l.top/categories/%E5%89%8D%E7%AB%AF/"/>
-    
     <category term="分享" scheme="https://blog.z-l.top/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="前端" scheme="https://blog.z-l.top/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
     <category term="前端" scheme="https://blog.z-l.top/tags/%E5%89%8D%E7%AB%AF/"/>
@@ -460,26 +479,9 @@
     <category term="笔记" scheme="https://blog.z-l.top/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="AE" scheme="https://blog.z-l.top/tags/AE/"/>
-    
     <category term="笔记" scheme="https://blog.z-l.top/tags/%E7%AC%94%E8%AE%B0/"/>
     
-  </entry>
-  
-  <entry>
-    <title>老友有声—中老年有声书功能UX体验设计</title>
-    <link href="https://blog.z-l.top/posts/1235.html"/>
-    <id>https://blog.z-l.top/posts/1235.html</id>
-    <published>2023-05-19T16:00:00.000Z</published>
-    <updated>2023-11-12T11:57:32.000Z</updated>
-    
-    
-    <summary type="html">专注服务老年人，提供便捷的有声书体验。用户友好的操作界面旨在增进老年人的参与感，改善中老年人在独居环境中的生活品质。</summary>
-    
-    
-    
-    
-    <category term="UX" scheme="https://blog.z-l.top/tags/UX/"/>
+    <category term="AE" scheme="https://blog.z-l.top/tags/AE/"/>
     
   </entry>
   
