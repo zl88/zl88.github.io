@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>PS一键字体检测替换</title>
+      <link href="/posts/FontSwapper.html"/>
+      <url>/posts/FontSwapper.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在日常设计工作中，你是否遇到过这些困扰：接手的PSD文件用了十几种字体难以统一替换却要逐个图层查找？想快速知道文档里所有文字用了哪些字体，却要一层层展开查找？今天给大家分享一个自己在用的PS脚本检测工具，帮你轻松搞定字体管理难题。</p></blockquote><h2 id="工具核心功能"><a href="#工具核心功能" class="headerlink" title="工具核心功能"></a>工具核心功能</h2><p>FontSwapper脚本是专为Photoshop设计的字体管理助手，主要能帮你解决三件事：</p><p><strong>全文档字体透视</strong>：一键扫描并展示当前PSD中所有文字图层使用的字体，不用再逐个图层检查</p><p><strong>批量字体替换</strong>：支持将指定字体一键替换为其他字体，省去重复操作</p><p><strong>灵活排序查看</strong>：可按文档图层顺序、字体分组、使用频率三种方式排序显示，方便快速定位</p><h2 id="为什么需要这个工具？"><a href="#为什么需要这个工具？" class="headerlink" title="为什么需要这个工具？"></a>为什么需要这个工具？</h2><p>做设计的朋友应该都懂：</p><ul><li>多字体排版的文件想统一风格时，逐个替换图层效率太低</li><li>接手他人文件时，经常要花时间确认”这个文字到底用的什么字体”</li><li>客户突然要求更换所有字体时，手动操作容易遗漏</li></ul><p>有了这个工具，这些问题都能迎刃而解，亲测能节省大量机械操作时间。下面是使用的一些截图</p><p><img src="https://files.getquicker.net/_sitefiles/kb/sharedaction/6471ed9b-8254-443d-0267-08ddf9bab61f/2025/09/23/235101_388875_image.png" alt=""></p><p><img src="https://files.getquicker.net/_sitefiles/kb/sharedaction/6471ed9b-8254-443d-0267-08ddf9bab61f/2025/09/23/235512_388875_image.png" alt=""></p><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><ol><li>在Photoshop中打开需要处理的PSD文件</li><li>运行此脚本，具体步骤在PhotoShop点击：  文件(F) —&gt; 脚本(R) —&gt; 浏览(B)</li><li>在弹出的界面中：<ul><li>直接查看所有文字图层的字体信息</li><li>通过界面选项进行字体替换操作</li><li>根据需要调整显示方式</li><li>祝用的开心</li></ul></li></ol><h2 id="安装与获取"><a href="#安装与获取" class="headerlink" title="安装与获取"></a>安装与获取</h2><ul><li>下载地址：<a href="https://img.z-l.top/file/jsx/FontSwapper.jsx">https://img.z-l.top/file/jsx/FontSwapper.jsx</a></li><li>首发地址：<a href="https://getquicker.net/Sharedaction?code=6471ed9b-8254-443d-0267-08ddf9bab61f">https://getquicker.net/Sharedaction?code=6471ed9b-8254-443d-0267-08ddf9bab61f</a></li></ul><p>建议使用第二个地址，搭配quicker使用该脚本，一是脚本更新及时，长期维护，二是使用便捷。</p><p>购买Quicker会员推荐使用我的推荐码 <strong>388875-9432</strong> 可以获得额外会员时长，感谢支持！</p><h2 id="使用小贴士"><a href="#使用小贴士" class="headerlink" title="使用小贴士"></a>使用小贴士</h2><ol><li>首次使用建议先在”设置首选项”中调整显示格式，按自己习惯配置</li><li>替换字体时勾选自动选中相同字体，可批量替换字体</li><li>复杂文件建议先保存再执行替换操作，避免意外情况，因为目前没有添加“后悔药”功能，未来会添加</li></ol><blockquote><p>脚本无偿分享，您可以随意使用，转发，但请标注文章地址即可。</p><p>如帮到您 ，有能力可以给作者打赏一下，万分感谢🙇‍</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> PS脚本 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>React学习</title>
       <link href="/posts/react-lesson1.html"/>
       <url>/posts/react-lesson1.html</url>
@@ -158,9 +183,9 @@
       
         <tags>
             
-            <tag> 解析 </tag>
-            
             <tag> 下载 </tag>
+            
+            <tag> 解析 </tag>
             
             <tag> 音乐 </tag>
             
