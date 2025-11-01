@@ -6,7 +6,7 @@
   <link href="https://blog.z-l.top/rss.xml" rel="self"/>
   
   <link href="https://blog.z-l.top/"/>
-  <updated>2025-09-23T17:16:47.883Z</updated>
+  <updated>2025-11-01T11:33:07.670Z</updated>
   <id>https://blog.z-l.top/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>花瓣“去”水印</title>
+    <link href="https://blog.z-l.top/posts/huaban.html"/>
+    <id>https://blog.z-l.top/posts/huaban.html</id>
+    <published>2025-11-01T00:24:45.000Z</published>
+    <updated>2025-11-01T11:33:07.670Z</updated>
+    
+    
+    <summary type="html">显示花瓣真假PNG，区分VIP素材和免费素材，花瓣官方素材[vip素材]去水印</summary>
+    
+    
+    
+    <category term="分享" scheme="https://blog.z-l.top/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="油猴脚本" scheme="https://blog.z-l.top/tags/%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC/"/>
+    
+  </entry>
   
   <entry>
     <title>PS一键字体检测替换</title>
@@ -193,9 +212,9 @@
     <category term="分享" scheme="https://blog.z-l.top/categories/%E5%88%86%E4%BA%AB/"/>
     
     
-    <category term="下载" scheme="https://blog.z-l.top/tags/%E4%B8%8B%E8%BD%BD/"/>
-    
     <category term="解析" scheme="https://blog.z-l.top/tags/%E8%A7%A3%E6%9E%90/"/>
+    
+    <category term="下载" scheme="https://blog.z-l.top/tags/%E4%B8%8B%E8%BD%BD/"/>
     
     <category term="音乐" scheme="https://blog.z-l.top/tags/%E9%9F%B3%E4%B9%90/"/>
     
@@ -453,27 +472,6 @@
     
     
     <category term="壁纸" scheme="https://blog.z-l.top/tags/%E5%A3%81%E7%BA%B8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>PS beta版国内使用扩图功能</title>
-    <link href="https://blog.z-l.top/posts/PS-beat.html"/>
-    <id>https://blog.z-l.top/posts/PS-beat.html</id>
-    <published>2023-06-16T16:00:00.000Z</published>
-    <updated>2024-09-17T12:59:16.000Z</updated>
-    
-    
-    <summary type="html">由于PS打击盗版，本教程已失效。花钱买正版PS+漂亮国魔法吧,  或者尽早学Stable Diffusion来作图，但白嫖魔法有效。</summary>
-    
-    
-    
-    <category term="分享" scheme="https://blog.z-l.top/categories/%E5%88%86%E4%BA%AB/"/>
-    
-    
-    <category term="AI" scheme="https://blog.z-l.top/tags/AI/"/>
-    
-    <category term="ps" scheme="https://blog.z-l.top/tags/ps/"/>
     
   </entry>
   

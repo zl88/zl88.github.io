@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>花瓣“去”水印</title>
+      <link href="/posts/huaban.html"/>
+      <url>/posts/huaban.html</url>
+      
+        <content type="html"><![CDATA[<style>.gn_jiaozi {   padding: 22px 14px 22px 14px;    margin-bottom: 20px;    text-align: center;    color: white!important;    opacity: 0.8;     border-radius: 8px;    background-position: center;    background-size: cover;    background-image: url(https://img.z-l.top/file/b/tmp2054.png);}.gn_jiaozi  h2{color: white!important}</style><div class="gn_jiaozi"><h2>花瓣“去”水印</h2><center>祝你开心😄</center></div><h2 id="前言（可以跳过不看）"><a href="#前言（可以跳过不看）" class="headerlink" title="前言（可以跳过不看）"></a>前言（可以跳过不看）</h2><p>今天在使用花瓣网搜索素材的时候，在搜索界面看到了一张满意的图片，结果点进去，下载后才发现并不是真正的PNG图片，而是有带有PNG网格背景的图片，所以并不是透明的PNG。这心情就不愉快了。于是我用Stylus给搜索到的图片修改了背景颜色，这样是真正的透明PNG就会显示出我设置的背景颜色，那些假的不透明PNG就不会透出背景色。</p><p>还有花瓣官方的素材，在搜索列表显示的缩略图是没有水印的，点进图片详情页后就会显示有水印，这心情又不愉快了。于是想给花瓣素材在搜索界面加不同的颜色和用户上传的进行区分，但是stylus不能实现，于是使用油猴脚本进行区分。</p><p>此时应该就已经结束了，但我好奇为什么会员素材点进来之前的缩略图为什么没有水印，通过对比url我发现，缩略图url域名后有“/small/”,后缀为 “_fw240webp”，前端的同学应该都了解常见的一些网站和CDN服务中，都会通过url参数或后缀来动态调整图片尺寸，来优化优化图片加载，这是优化网站SEO常用的技术，可以提高用户体验，使用网站加载更流畅，比如b站的图片链接：</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">https://i0.hdslb.com/bfs/archive/3f33515e3f8606fe24c37dabfe95ba2ee2fc52b6.jpg@672w_378h_1c_!web-home-common-cover.avif</span><br><span class="line">// 672w_378h_1c_ 限制图片尺寸大小</span><br><span class="line">// web-home-common-cover.avif 限制图片为封面显示，格式限制为avif，修改avif为png或jpg，下载就会得到png或jpg格式</span><br><span class="line">// b站图片链接直接删掉所有参数就会得到原始尺寸图片</span><br></pre></td></tr></table></figure><p>所以花瓣图片后缀 “_fw240webp”应该是用来控制图片尺寸和格式的，通过删掉后缀和修改后缀格式webp为png发现和猜测的一致。此时就可以得出结论<a href="https://gd-hbimg.huaban.com/small/xxxxxxxx">https://gd-hbimg.huaban.com/small/xxxxxxxx</a> 是花瓣官网提供的没有水印的最大尺寸图片，当然不可能是原始尺寸图片，毕竟花瓣这么大一个网站也不可能把素材在前端进行加水印。</p><p>此时，就可以使用油猴脚本对详情页的有水印图片链接替换为官方提供的没有水印的最大尺寸图片链接，就实现了带双引号的“去”水印。</p><h2 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h2><ol><li>显示花瓣真假PNG（原理：脚本通过给花瓣图片添加背景色，显示出透明PNG图片，透出背景色的即为透明PNG，非透明PNG就会被过滤掉）</li><li>通过自定义修改背景色，区分VIP素材和免费素材。</li><li>花瓣官方素材[vip素材]去水印（原理：去水印功能只是把图片链接替换花瓣官网提供的没有水印的最大尺寸图片地址，并非真正破破解去水印,）</li></ol><h2 id="脚本安装"><a href="#脚本安装" class="headerlink" title="脚本安装 "></a>脚本安装 <img class="inline-img" src="https://www.tampermonkey.net/images/ricon48.png" style="height:25px"/></h2><p>安装只需两步，先安装脚本管理器，然后安装我制作的脚本。</p><ol><li><p>安装 油猴（篡改猴）脚本管理器 ，可根据使用的不同浏览器进行选择性安装<br>谷歌浏览器应用商店：<a href="https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo">https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo</a><br>微软Edge浏览器应用商店：<a href="https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd">https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd</a><br>火狐浏览器扩展商店：<a href="https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/">https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/</a><br>篡改猴官网安装：<a href="https://www.tampermonkey.net">https://www.tampermonkey.net</a></p><p>下面图片是谷歌浏览器安装演示，其他浏览器操作一致<br><img src="https://img.z-l.top/file/b/image-20251101160447145.png" alt="篡改猴安装"></p></li><li><p>安装我制作的脚本：<a href="https://greasyfork.org/zh-CN/scripts/554301-%E8%8A%B1%E7%93%A3%E7%9C%9F%E5%81%87png">https://greasyfork.org/zh-CN/scripts/554301-%E8%8A%B1%E7%93%A3%E7%9C%9F%E5%81%87png</a></p></li></ol><p><img src="https://img.z-l.top/file/b/image-20251101155458998_1_.png" alt="脚本安装"></p><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><p>安装后刷新花瓣素材页面，就可以正常使用了。默认开启了修改图片背景和去水印。</p><p>免费素材的背景为淡蓝色的，vip素材为淡红色的背景，非这两种颜色的就是假的PNG图片，并非透明图片。<br><img src="https://img.z-l.top/file/b/image-20251101164810162.png" alt="显示花瓣真假PNG"></p><p><img src="https://img.z-l.top/file/b/image-20251101171028103.png" alt="VIP素材去水印"></p><p>您也可以自定义是否开启脚本的某个功能，有两种进入刷新页面可以在网站右下角返回顶部按钮上方看到一个设置按钮，点击就可以进入脚本自定义设置界面，目前可以修改图片背景颜色和是否显示无水印图片。</p><p><img src="https://img.z-l.top/file/b/tmp4637.png" alt="进入设置首选项"></p><p><img src="https://img.z-l.top/file/b/image-20251101165158249.png" alt="首选项界面"></p><h2 id="问题反馈"><a href="#问题反馈" class="headerlink" title="问题反馈"></a>问题反馈</h2><p>因为脚本刚制作，还不够完善，所以会有一些问题或者bug，欢迎留言~ <img class="inline-img" src="https://files.getquicker.net/_sitefiles/_guides/52593d69-c99a-4367-8b98-08d9a65be47e/2022/07/04/124814_202824_28.png" style="height:25px"/></p><p>使用问题 或 功能建议 可以在安装脚本的地方发表评价、留言或提问，更推荐在你看到本片文章所在平台的评论区进行留言，这里我会更及时的看到消息。</p><p>最后祝使用愉快，玩得开心~</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 油猴脚本 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>PS一键字体检测替换</title>
       <link href="/posts/FontSwapper.html"/>
       <url>/posts/FontSwapper.html</url>
@@ -183,9 +208,9 @@
       
         <tags>
             
-            <tag> 下载 </tag>
-            
             <tag> 解析 </tag>
+            
+            <tag> 下载 </tag>
             
             <tag> 音乐 </tag>
             
