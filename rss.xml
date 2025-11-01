@@ -6,7 +6,7 @@
   <link href="https://blog.z-l.top/rss.xml" rel="self"/>
   
   <link href="https://blog.z-l.top/"/>
-  <updated>2025-11-01T11:33:07.670Z</updated>
+  <updated>2025-11-01T15:03:58.071Z</updated>
   <id>https://blog.z-l.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.z-l.top/posts/huaban.html"/>
     <id>https://blog.z-l.top/posts/huaban.html</id>
     <published>2025-11-01T00:24:45.000Z</published>
-    <updated>2025-11-01T11:33:07.670Z</updated>
+    <updated>2025-11-01T15:03:58.071Z</updated>
     
     
     <summary type="html">显示花瓣真假PNG，区分VIP素材和免费素材，花瓣官方素材[vip素材]去水印</summary>
@@ -40,7 +40,7 @@
     <link href="https://blog.z-l.top/posts/FontSwapper.html"/>
     <id>https://blog.z-l.top/posts/FontSwapper.html</id>
     <published>2025-09-24T00:24:45.000Z</published>
-    <updated>2025-09-23T17:16:47.883Z</updated>
+    <updated>2025-11-01T15:04:44.606Z</updated>
     
     
     <summary type="html">一键检测并列出PS图层里使用的所有字体，检测后支持快速替换字体,一款提升设计效率的实用脚本</summary>
@@ -194,16 +194,16 @@
     <link href="https://blog.z-l.top/posts/20974.html"/>
     <id>https://blog.z-l.top/posts/20974.html</id>
     <published>2024-02-29T01:50:35.000Z</published>
-    <updated>2024-09-11T14:21:23.000Z</updated>
+    <updated>2025-11-01T14:56:45.397Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;div class=&quot;note info simple&quot;&gt;&lt;p&gt;如果以下两个网站都没有想下载的歌曲，可以到B站搜索，有up主发歌曲视频，使用解析B站视频的脚本，只下载音频文件也能够达到下载歌曲的目的&lt;/p&gt;
+    <summary type="html">&lt;div class=&quot;note info simple&quot;&gt;&lt;p&gt;如果以下网站都没有想下载的歌曲，可以到B站搜索，有up主发歌曲视频，使用解析B站视频的脚本，只下载音频文件也能够达到下载歌曲的目的&lt;/p&gt;
 &lt;/div&gt;
-&lt;h2 id=&quot;网易云音乐&quot;&gt;&lt;a</summary>
+&lt;h3 id=&quot;歌曲宝&quot;&gt;&lt;a href=&quot;#歌曲宝&quot;</summary>
         
       
     
@@ -332,9 +332,9 @@
     <category term="插件" scheme="https://blog.z-l.top/categories/%E6%8F%92%E4%BB%B6/"/>
     
     
-    <category term="AE" scheme="https://blog.z-l.top/tags/AE/"/>
-    
     <category term="下载" scheme="https://blog.z-l.top/tags/%E4%B8%8B%E8%BD%BD/"/>
+    
+    <category term="AE" scheme="https://blog.z-l.top/tags/AE/"/>
     
   </entry>
   
